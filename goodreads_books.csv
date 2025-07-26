@@ -1,0 +1,950 @@
+book_id,url,title,author,avg_rating,ratings_count,reviews_count,isbn,pages,publisher,genres,scraped_at
+1,https://www.goodreads.com/book/show/1,Harry Potter and the Half-Blood Prince,J.K. Rowling,4.58,"3,562,057","67,025",,652,,,2025-07-26T08:57:53.993667
+2,https://www.goodreads.com/book/show/2,Harry Potter and the Order of the Phoenix,J.K. Rowling,4.50,"3,689,566","74,062",,870,,,2025-07-26T08:57:57.051244
+3,https://www.goodreads.com/book/show/3,Harry Potter and the Sorcerer's Stone,J.K. Rowling,4.47,"11,059,533","184,262",,309,,,2025-07-26T08:57:59.054504
+4,https://www.goodreads.com/book/show/4,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.43,"4,347,294","92,125",,352,,,2025-07-26T08:58:02.578110
+5,https://www.goodreads.com/book/show/5,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,4.58,"4,675,297","97,539",,435,,,2025-07-26T08:58:04.964076
+6,https://www.goodreads.com/book/show/6,Harry Potter and the Goblet of Fire,J.K. Rowling,4.57,"4,067,779","80,541",,734,,,2025-07-26T08:58:06.905135
+7,https://www.goodreads.com/book/show/7,The Harry Potter Collection,J.K. Rowling,4.72,"34,541",993,,Paperback,,,2025-07-26T08:58:09.391781
+8,https://www.goodreads.com/book/show/8,"Harry Potter Boxed Set, Books 1-5",J.K. Rowling,4.71,"170,591",348,,2690,,,2025-07-26T08:58:12.546613
+9,https://www.goodreads.com/book/show/9,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",W. Frederick Zimmerman,4.11,64,1,,152,,,2025-07-26T08:58:13.935786
+10,https://www.goodreads.com/book/show/10,Harry Potter Collection,J.K. Rowling,4.72,"34,541",993,,3342,,,2025-07-26T08:58:16.681978
+11,https://www.goodreads.com/book/show/11,The Hitchhiker’s Guide to the Galaxy,Douglas Adams,4.22,"1,969,348","53,040",,216,,,2025-07-26T08:58:16.738393
+12,https://www.goodreads.com/book/show/12,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story,Douglas Adams,4.38,"334,596","6,721",,815,,,2025-07-26T08:58:16.782288
+13,https://www.goodreads.com/book/show/13,The Ultimate Hitchhiker’s Guide to the Galaxy,Douglas Adams,4.38,"334,596","6,721",,815,,,2025-07-26T08:58:16.819412
+14,https://www.goodreads.com/book/show/14,The Hitchhiker's Guide to the Galaxy,Douglas Adams,4.22,"1,969,348","53,040",,215,,,2025-07-26T08:58:16.863657
+15,https://www.goodreads.com/book/show/15,The Hitchhiker's Guide to Lean: Lessons from the Road,Jamie Flinchbaugh,3.82,102,5,,216,,,2025-07-26T08:58:16.876138
+16,https://www.goodreads.com/book/show/16,The Hitchhiker's Guide to the Galaxy,Douglas Adams,4.22,"1,969,348","53,040",,6,,,2025-07-26T08:58:16.919449
+17,https://www.goodreads.com/book/show/17,The Hitchhiker's Guide to the Galaxy: Quandary Phase,Douglas Adams,4.33,933,46,,3,,,2025-07-26T08:58:16.954343
+18,https://www.goodreads.com/book/show/18,The Ultimate Hitchhiker's Guide,Douglas Adams,4.38,"334,596","6,721",,817,,,2025-07-26T08:58:17.001527
+19,https://www.goodreads.com/book/show/19,The Hitchhiker's Guide to the Galaxy: The Quintessential Phase,Douglas Adams,4.36,876,42,,3,,,2025-07-26T08:58:17.117204
+21,https://www.goodreads.com/book/show/21,A Short History of Nearly Everything,Bill Bryson,4.22,"412,708","17,013",,544,,,2025-07-26T08:58:17.202847
+22,https://www.goodreads.com/book/show/22,Bill Bryson's African Diary,Bill Bryson,3.48,"10,345",722,,55,,,2025-07-26T08:58:17.236957
+23,https://www.goodreads.com/book/show/23,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,Bill Bryson,3.89,"3,201",219,,256,,,2025-07-26T08:58:17.273943
+24,https://www.goodreads.com/book/show/24,In a Sunburned Country,Bill Bryson,4.07,"119,119","7,190",,335,,,2025-07-26T08:58:17.314594
+25,https://www.goodreads.com/book/show/25,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,Bill Bryson,3.90,"68,618","3,404",,304,,,2025-07-26T08:58:17.363179
+26,https://www.goodreads.com/book/show/26,The Lost Continent: Travels in Small-Town America,Bill Bryson,3.81,"63,765","3,628",,299,,,2025-07-26T08:58:17.401045
+27,https://www.goodreads.com/book/show/27,Neither Here nor There: Travels in Europe,Bill Bryson,3.85,"78,042","3,769",,254,,,2025-07-26T08:58:17.439866
+28,https://www.goodreads.com/book/show/28,Notes from a Small Island,Bill Bryson,3.92,"117,816","5,485",,324,,,2025-07-26T08:58:17.484184
+29,https://www.goodreads.com/book/show/29,The Mother Tongue: English and How It Got That Way,Bill Bryson,3.91,"43,543","3,495",,270,,,2025-07-26T08:58:17.581004
+30,https://www.goodreads.com/book/show/30,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.61,"141,485","2,415",,1728,,,2025-07-26T08:58:17.622214
+31,https://www.goodreads.com/book/show/31,The Lord of the Rings,J.R.R. Tolkien,4.54,"716,274","15,945",,1157,,,2025-07-26T08:58:17.675104
+32,https://www.goodreads.com/book/show/32,The Lord of the Rings,J.R.R. Tolkien,4.54,"716,274","15,945",,1137,,,2025-07-26T08:58:17.717562
+33,https://www.goodreads.com/book/show/33,The Lord of the Rings,J.R.R. Tolkien,4.54,"716,274","15,945",,1216,,,2025-07-26T08:58:17.758645
+34,https://www.goodreads.com/book/show/34,The Fellowship of the Ring,J.R.R. Tolkien,4.40,"3,049,608","49,388",,398,,,2025-07-26T08:58:17.803812
+35,https://www.goodreads.com/book/show/35,The Lord of the Rings,J.R.R. Tolkien,4.54,"716,274","15,945",,1216,,,2025-07-26T08:58:17.847162
+36,https://www.goodreads.com/book/show/36,The Lord of the Rings: Weapons and Warfare,Chris   Smith,4.58,"82,520",104,,218,,,2025-07-26T08:58:17.888840
+37,https://www.goodreads.com/book/show/37,The Lord of the Rings: Complete Visual Companion,Jane Johnson,4.50,419,8,,224,,,2025-07-26T08:58:17.972006
+38,https://www.goodreads.com/book/show/38,The Lord of the Rings Box Set,J.R.R. Tolkien,4.54,"716,274","15,945",,1223,,,2025-07-26T08:58:18.037734
+39,https://www.goodreads.com/book/show/39,The Lord of the Rings,Brian Sibley,4.75,"22,224",106,,Audio,,,2025-07-26T08:58:18.115478
+40,https://www.goodreads.com/book/show/40,Cooking with Fernet Branca,James Hamilton-Paterson,3.60,"1,817",282,,288,,,2025-07-26T08:58:18.160678
+45,https://www.goodreads.com/book/show/45,"Agile Web Development with Rails, 1st Edition",Dave         Thomas,3.86,"2,224",112,,558,,,2025-07-26T08:58:18.198467
+46,https://www.goodreads.com/book/show/46,Ruby Quickly: Ruby and Rails for the Real World,Mark   Watson,3.40,5,0,,360,,,2025-07-26T08:58:18.206425
+48,https://www.goodreads.com/book/show/48,The Bucaneers,Edith Wharton,3.87,"8,007",757,,Hardcover,,,2025-07-26T08:58:18.246518
+49,https://www.goodreads.com/book/show/49,Bucaneer,Luther Butler,3.75,8,2,,208,,,2025-07-26T08:58:18.255964
+50,https://www.goodreads.com/book/show/50,Hatchet,Gary Paulsen,3.79,"439,303","20,048",,208,,,2025-07-26T08:58:18.298050
+51,https://www.goodreads.com/book/show/51,A Guide for Using Hatchet in the Classroom,Donna Ickes,3.94,36,3,,48,,,2025-07-26T08:58:18.308658
+52,https://www.goodreads.com/book/show/52,El hacha,Gary Paulsen,3.79,"439,303","20,048",,144,,,2025-07-26T08:58:18.361106
+53,https://www.goodreads.com/book/show/53,Guts: The True Stories behind Hatchet and the Brian Books,Gary Paulsen,3.92,"3,141",439,,148,,,2025-07-26T08:58:18.397282
+54,https://www.goodreads.com/book/show/54,Molly Hatchet - 5 of the Best,Molly Hatchet,3.86,7,1,,56,,,2025-07-26T08:58:18.437434
+55,https://www.goodreads.com/book/show/55,Hatchet Jobs: Writings on Contemporary Fiction,Dale Peck,3.51,139,28,,228,,,2025-07-26T08:58:18.535882
+56,https://www.goodreads.com/book/show/56,The Woodsman and His Hatchet: Eighty Years on Back Country Survival,Bud Cheff Sr.,3.69,13,1,,150,,,2025-07-26T08:58:18.568231
+57,https://www.goodreads.com/book/show/57,A Changeling for All Seasons,Angela Knight,3.76,177,5,,304,,,2025-07-26T08:58:18.584761
+58,https://www.goodreads.com/book/show/58,Changeling,Delia Sherman,3.59,"1,088",127,,256,,,2025-07-26T08:58:18.624188
+59,https://www.goodreads.com/book/show/59,The Changeling Sea,Patricia A. McKillip,4.09,"5,894",571,,137,,,2025-07-26T08:58:18.662625
+60,https://www.goodreads.com/book/show/60,Changelings,Anne McCaffrey,3.82,"2,621",104,,288,,,2025-07-26T08:58:18.698982
+61,https://www.goodreads.com/book/show/61,The Changeling,Zilpha Keatley Snyder,4.18,"1,529",164,,220,,,2025-07-26T08:58:18.732763
+63,https://www.goodreads.com/book/show/63,The Changeling,Kate Horsley,3.57,436,61,,352,,,2025-07-26T08:58:18.766071
+65,https://www.goodreads.com/book/show/65,Shadows in the Starlight,Elaine Cunningham,3.70,207,20,,288,,,2025-07-26T08:58:18.791213
+66,https://www.goodreads.com/book/show/66,The Changeling,Philippa Carr,3.96,532,32,,369,,,2025-07-26T08:58:18.824816
+67,https://www.goodreads.com/book/show/67,The Known World,Edward P. Jones,3.84,"44,307","3,959",,388,,,2025-07-26T08:58:18.875373
+68,https://www.goodreads.com/book/show/68,The Known World,Edward P. Jones,3.84,"44,307","3,959",,14,,,2025-07-26T08:58:18.977255
+69,https://www.goodreads.com/book/show/69,The Known World,Edward P. Jones,3.84,"44,307","3,959",,576,,,2025-07-26T08:58:19.024347
+71,https://www.goodreads.com/book/show/71,"Traders, Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives",Satyajit Das,3.85,"1,905",108,,334,,,2025-07-26T08:58:19.072601
+72,https://www.goodreads.com/book/show/72,Artesia: Adventures in the Known World,Mark Smylie,4.19,67,5,,352,,,2025-07-26T08:58:19.084463
+73,https://www.goodreads.com/book/show/73,The Known World,Edward P. Jones,3.84,"44,307","3,959",,388,,,2025-07-26T08:58:19.128635
+74,https://www.goodreads.com/book/show/74,The John McPhee Reader,John McPhee,4.44,739,51,,416,,,2025-07-26T08:58:19.162883
+75,https://www.goodreads.com/book/show/75,Uncommon Carriers,John McPhee,3.97,"2,369",282,,256,,,2025-07-26T08:58:19.204228
+76,https://www.goodreads.com/book/show/76,Heirs of General Practice,John McPhee,4.17,405,34,,119,,,2025-07-26T08:58:19.265927
+77,https://www.goodreads.com/book/show/77,The Control of Nature,John McPhee,4.26,"4,837",441,,288,,,2025-07-26T08:58:19.345494
+78,https://www.goodreads.com/book/show/78,Annals of the Former World,John McPhee,4.36,"4,299",343,,720,,,2025-07-26T08:58:19.412652
+79,https://www.goodreads.com/book/show/79,Coming Into the Country,John McPhee,4.21,"7,471",446,,438,,,2025-07-26T08:58:19.452872
+80,https://www.goodreads.com/book/show/80,La Place de la Concorde Suisse,John McPhee,3.91,"1,030",85,,160,,,2025-07-26T08:58:19.516588
+81,https://www.goodreads.com/book/show/81,Giving Good Weight,John McPhee,4.26,700,51,,272,,,2025-07-26T08:58:19.595064
+82,https://www.goodreads.com/book/show/82,The Second John McPhee Reader,John McPhee,4.32,256,27,,393,,,2025-07-26T08:58:19.656941
+83,https://www.goodreads.com/book/show/83,Rising from the Plains,John McPhee,4.23,"1,932",194,,208,,,2025-07-26T08:58:19.694397
+84,https://www.goodreads.com/book/show/84,Heidi,Loretta Krupinski,4.48,21,3,,32,,,2025-07-26T08:58:19.705997
+85,https://www.goodreads.com/book/show/85,The Heidi Chronicles,Wendy Wasserstein,3.78,"2,124",126,,81,,,2025-07-26T08:58:19.741607
+86,https://www.goodreads.com/book/show/86,The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,Wendy Wasserstein,3.85,"3,160",86,,249,,,2025-07-26T08:58:19.777741
+87,https://www.goodreads.com/book/show/87,Pandering,Heidi Fleiss,3.59,95,12,,240,,,2025-07-26T08:58:19.796241
+88,https://www.goodreads.com/book/show/88,Love Your Handwriting,Heidi Swapp,3.61,89,9,,164,,,2025-07-26T08:58:19.824652
+89,https://www.goodreads.com/book/show/89,"Active Literacy Across the Curriculum: Strategies for Reading, Writing, Speaking, and Listening",Heidi Hayes Jacobs,3.97,33,1,,152,,,2025-07-26T08:58:19.844276
+90,https://www.goodreads.com/book/show/90,Simply Beautiful Beaded Jewelry,Heidi Boyd,3.76,67,6,,128,,,2025-07-26T08:58:19.859842
+91,https://www.goodreads.com/book/show/91,Always Enough: God's Miraculous Provision among the Poorest Children on Earth,Heidi Baker,4.45,"1,137",81,,192,,,2025-07-26T08:58:19.919372
+92,https://www.goodreads.com/book/show/92,Mapping the Big Picture: Integrating Curriculum & Assessment K-12,Heidi Hayes Jacobs,3.67,93,3,,108,,,2025-07-26T08:58:19.930156
+93,https://www.goodreads.com/book/show/93,Heidi,Johanna Spyri,4.04,"208,646","7,052",,352,,,2025-07-26T08:58:19.971396
+94,https://www.goodreads.com/book/show/94,Getting Results with Curriculum Mapping,Heidi Hayes Jacobs,3.30,64,7,,192,,,2025-07-26T08:58:19.998889
+95,https://www.goodreads.com/book/show/95,Cinnamon and Roses,Heidi Betts,3.82,97,10,,298,,,2025-07-26T08:58:20.093306
+96,https://www.goodreads.com/book/show/96,There Is Always Enough: The Amazing Story of Rolland and Heidi Baker's Miraculous Ministry Among the Poor,Rolland Baker,4.45,"1,137",81,,192,,,2025-07-26T08:58:20.138960
+97,https://www.goodreads.com/book/show/97,The Birthdays,Heidi Pitlor,2.85,456,72,,288,,,2025-07-26T08:58:20.174412
+98,https://www.goodreads.com/book/show/98,What to Expect the First Year,Heidi Murkoff,3.93,"19,897","1,140",,806,,,2025-07-26T08:58:20.227658
+99,https://www.goodreads.com/book/show/99,The Player's Handbook: The Ultimate Guide on Dating & Relationships,Heidi Fleiss,3.69,45,9,,123,,,2025-07-26T08:58:20.244508
+100,https://www.goodreads.com/book/show/100,Simply Beautiful Beading,Heidi Boyd,3.81,98,7,,128,,,2025-07-26T08:58:20.260948
+101,https://www.goodreads.com/book/show/101,Chasing Jordan,Heidi W. Boehringer,3.30,40,6,,240,,,2025-07-26T08:58:20.273322
+102,https://www.goodreads.com/book/show/102,Seven-Year Seduction,Heidi Betts,3.58,96,8,,192,,,2025-07-26T08:58:20.288713
+103,https://www.goodreads.com/book/show/103,God Emperor of Dune,Frank Herbert,3.88,"139,204","7,373",,423,,,2025-07-26T08:58:20.331809
+104,https://www.goodreads.com/book/show/104,Dune,Frank Herbert,4.28,"1,569,424","79,460",,528,,,2025-07-26T08:58:20.374583
+105,https://www.goodreads.com/book/show/105,Chapterhouse: Dune,Frank Herbert,3.87,"79,731","3,235",,436,,,2025-07-26T08:58:20.417801
+106,https://www.goodreads.com/book/show/106,Dune Messiah,Frank Herbert,3.89,"379,706","23,973",,331,,,2025-07-26T08:58:20.475845
+107,https://www.goodreads.com/book/show/107,Dreamer of Dune: The Biography of Frank Herbert,Brian Herbert,3.98,"1,160",75,,592,,,2025-07-26T08:58:20.555996
+108,https://www.goodreads.com/book/show/108,The Secrets of Frank Herbert's Dune,James Van Hise,3.60,55,2,,160,,,2025-07-26T08:58:20.570108
+109,https://www.goodreads.com/book/show/109,Heretics of Dune,Frank Herbert,3.85,"97,728","4,038",,480,,,2025-07-26T08:58:20.626496
+110,https://www.goodreads.com/book/show/110,The Road to Dune,Frank Herbert,3.90,"6,058",174,,426,,,2025-07-26T08:58:20.692567
+111,https://www.goodreads.com/book/show/111,Dios emperador de Dune,Frank Herbert,3.88,"139,204","7,373",,568,,,2025-07-26T08:58:20.736549
+112,https://www.goodreads.com/book/show/112,Children of Dune,Frank Herbert,3.96,"236,812","12,028",,408,,,2025-07-26T08:58:20.778305
+113,https://www.goodreads.com/book/show/113,Dune,Frank Herbert,4.28,"1,569,424","79,460",,Audio,,,2025-07-26T08:58:20.822539
+114,https://www.goodreads.com/book/show/114,Dune Trilogy Box Set,Frank Herbert,4.37,"62,714",569,,Mass,,,2025-07-26T08:58:20.857124
+115,https://www.goodreads.com/book/show/115,Worlds Beyond Dune Box,Frank Herbert,4.25,8,0,,Mass,,,2025-07-26T08:58:20.876144
+116,https://www.goodreads.com/book/show/116,The Dune Encyclopedia,Willis Everett McNelly,4.11,"4,175",65,,526,,,2025-07-26T08:58:20.911059
+117,https://www.goodreads.com/book/show/117,Heretics of Dune,Frank Herbert,3.85,"97,728","4,038",,471,,,2025-07-26T08:58:20.954049
+118,https://www.goodreads.com/book/show/118,The Battles of Dune,Frank Herbert,4.17,479,0,,Audio,,,2025-07-26T08:58:20.984599
+119,https://www.goodreads.com/book/show/119,The Art of The Fellowship of the Ring,Gary Russell,4.61,"196,939",266,,192,,,2025-07-26T08:58:21.099196
+120,https://www.goodreads.com/book/show/120,The Trust: The Private and Powerful Family behind the New York Times,Susan E. Tifft,4.04,202,22,,870,,,2025-07-26T08:58:21.156840
+121,https://www.goodreads.com/book/show/121,The Patriarch: The Rise and Fall of the Bingham Dynasty,Susan E. Tifft,3.77,30,5,,576,,,2025-07-26T08:58:21.169252
+122,https://www.goodreads.com/book/show/122,The Power of One,Bryce Courtenay,4.36,"93,067","6,203",,544,,,2025-07-26T08:58:21.204456
+123,https://www.goodreads.com/book/show/123,The Power of One,Bryce Courtenay,4.36,"93,067","6,203",,304,,,2025-07-26T08:58:21.239642
+124,https://www.goodreads.com/book/show/124,Lose Weight with The Power of One: A Motivational Journey to Nutritional Sanity,Stephen Moss,4.27,11,2,,256,,,2025-07-26T08:58:21.249316
+125,https://www.goodreads.com/book/show/125,The Power of One: Daisy Bates and the Little Rock Nine,Judith Bloom Fradin,4.33,51,9,,178,,,2025-07-26T08:58:21.264919
+126,https://www.goodreads.com/book/show/126,The Power of One,Bryce Courtenay,4.36,"93,067","6,203",,Audio,,,2025-07-26T08:58:21.301059
+127,https://www.goodreads.com/book/show/127,Powers Unlimited One: A Sourcebook for Heroes Unlimited,Carmen Bellaire,4.22,23,1,,96,,,2025-07-26T08:58:21.309903
+128,https://www.goodreads.com/book/show/128,The Power of One Christlike Life,Francis Frangipane,4.22,49,5,,159,,,2025-07-26T08:58:21.322613
+129,https://www.goodreads.com/book/show/129,"The Power Of One: One Person, One Rule, One Month",John C. Maxwell,4.13,23,1,,238,,,2025-07-26T08:58:21.332022
+130,https://www.goodreads.com/book/show/130,The Power of an Hour: Business and Life Mastery in One Hour a Week,Dave Lakhani,3.30,250,27,,224,,,2025-07-26T08:58:21.365599
+131,https://www.goodreads.com/book/show/131,"The Power of One: The Solo Play for Playwrights, Actors, and Directors",Louis E. Catron,3.67,18,0,,240,,,2025-07-26T08:58:21.373195
+132,https://www.goodreads.com/book/show/132,"How to Buy, Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days",Adam Ginsberg,3.51,100,10,,317,,,2025-07-26T08:58:21.408089
+133,https://www.goodreads.com/book/show/133,eBay for Dummies,Marsha Collier,3.51,237,23,,386,,,2025-07-26T08:58:21.601452
+134,https://www.goodreads.com/book/show/134,eBay PowerSeller Secrets: Insider Tips from eBay's Most Successful Sellers,Debra Schepp,3.61,66,6,,408,,,2025-07-26T08:58:21.630530
+135,https://www.goodreads.com/book/show/135,What to Sell on eBay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,Chris Malta,3.70,27,0,,288,,,2025-07-26T08:58:21.638772
+136,https://www.goodreads.com/book/show/136,Titanium eBay: A Tactical Guide to Becoming a Millionaire PowerSeller,Skip McGrath,4.17,70,6,,560,,,2025-07-26T08:58:21.652525
+137,https://www.goodreads.com/book/show/137,Starting an eBay Business for Dummies,Marsha Collier,3.56,124,7,,408,,,2025-07-26T08:58:21.666370
+138,https://www.goodreads.com/book/show/138,eBay: Top 100 Simplified Tips & Tricks,Julia Wilkinson,4.00,12,1,,260,,,2025-07-26T08:58:21.674698
+139,https://www.goodreads.com/book/show/139,eBay Timesaving Techniques for Dummies,Marsha Collier,3.32,22,2,,409,,,2025-07-26T08:58:21.687560
+140,https://www.goodreads.com/book/show/140,eBay Business All-in-One Desk Reference for Dummies,Marsha Collier,3.89,19,3,,864,,,2025-07-26T08:58:21.698542
+141,https://www.goodreads.com/book/show/141,Ruby Cookbook,Lucas Carlson,3.87,194,6,,906,,,2025-07-26T08:58:21.714019
+142,https://www.goodreads.com/book/show/142,Ruby Ann's Down Home Trailer Park Cookbook,Ruby Ann Boxcar,4.13,62,6,,223,,,2025-07-26T08:58:21.726814
+143,https://www.goodreads.com/book/show/143,Ruby Ann's Down Home Trailer Park Holiday Cookbook,Ruby Ann Boxcar,4.10,20,1,,320,,,2025-07-26T08:58:21.735569
+144,https://www.goodreads.com/book/show/144,Ruby Ann's Down Home Trailer Park BBQin' Cookbook,Ruby Ann Boxcar,4.07,14,2,,206,,,2025-07-26T08:58:21.746339
+145,https://www.goodreads.com/book/show/145,Ruby Cookbook,Lucas Carlson,3.87,194,6,,Paperback,,,2025-07-26T08:58:21.760102
+146,https://www.goodreads.com/book/show/146,Ruby's Low-Fat Soul Food Cookbook,Ruby Banks-Payne,4.80,5,0,,192,,,2025-07-26T08:58:21.768117
+147,https://www.goodreads.com/book/show/147,Rails Cookbook: Recipes for Rapid Web Development with Ruby,Rob Orsini,3.49,63,1,,541,,,2025-07-26T08:58:21.778442
+148,https://www.goodreads.com/book/show/148,"Ruby Slippers Cookbook: Life, Culture, Family & Food after Katrina",Amy Cyrex Sins,4.18,11,1,,232,,,2025-07-26T08:58:21.787758
+149,https://www.goodreads.com/book/show/149,The Red Hot Cookbook: Create a Culinary Inferno with Flaming Good Recipes from Around the World,Ruby Le Bois,3.75,4,0,,256,,,2025-07-26T08:58:21.797317
+151,https://www.goodreads.com/book/show/151,Anna Karenina,Leo Tolstoy,4.10,"905,954","40,618",,838,,,2025-07-26T08:58:21.841913
+152,https://www.goodreads.com/book/show/152,Anna Karenina,Leo Tolstoy,4.10,"905,954","40,618",,960,,,2025-07-26T08:58:21.885083
+153,https://www.goodreads.com/book/show/153,Anna Karenina,Leo Tolstoy,4.10,"905,954","40,618",,838,,,2025-07-26T08:58:22.032340
+154,https://www.goodreads.com/book/show/154,CliffsNotes on Tolstoy's Anna Karenina,Marianne Sturman,3.65,26,3,,82,,,2025-07-26T08:58:22.058180
+155,https://www.goodreads.com/book/show/155,Anna Karenina,Leo Tolstoy,4.10,"905,954","40,618",,803,,,2025-07-26T08:58:22.099895
+156,https://www.goodreads.com/book/show/156,Anna Karenina,Leo Tolstoy,4.10,"905,954","40,618",,752,,,2025-07-26T08:58:22.146597
+157,https://www.goodreads.com/book/show/157,Anna Karenina,Leo Tolstoy,4.10,"905,954","40,618",,803,,,2025-07-26T08:58:22.188208
+158,https://www.goodreads.com/book/show/158,Anna Karenina,Leo Tolstoy,4.10,"905,954","40,618",,Audio,,,2025-07-26T08:58:22.231145
+159,https://www.goodreads.com/book/show/159,Dinner with Anna Karenina,Gloria Goldreich,3.02,566,85,,368,,,2025-07-26T08:58:22.266579
+160,https://www.goodreads.com/book/show/160,Tolstoy: Anna Karenina,Anthony Thorlby,4.22,"1,704",62,,128,,,2025-07-26T08:58:22.312396
+161,https://www.goodreads.com/book/show/161,The Dream Life of Sukhanov,Olga Grushin,3.90,"1,717",242,,354,,,2025-07-26T08:58:22.404203
+162,https://www.goodreads.com/book/show/162,Untouchable,Mulk Raj Anand,3.74,"6,412",619,,160,,,2025-07-26T08:58:22.442652
+163,https://www.goodreads.com/book/show/163,The Untouchable,John Banville,3.95,"4,127",465,,368,,,2025-07-26T08:58:22.510959
+164,https://www.goodreads.com/book/show/164,The Untouchables,Eliot Ness,3.88,793,58,,256,,,2025-07-26T08:58:22.543659
+165,https://www.goodreads.com/book/show/165,Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India,Narendra Jadhav,3.83,422,57,,320,,,2025-07-26T08:58:22.578494
+166,https://www.goodreads.com/book/show/166,Dalit: The Black Untouchables of India,V.T. Rajshekar,4.28,18,2,,116,,,2025-07-26T08:58:22.588201
+167,https://www.goodreads.com/book/show/167,"The Untouchables: Subordination, Poverty and the State in Modern India",Oliver Mendelsohn,3.75,8,0,,308,,,2025-07-26T08:58:22.596185
+168,https://www.goodreads.com/book/show/168,Growing Up Untouchable in India: A Dalit Autobiography,Vasant Moon,3.71,28,6,,224,,,2025-07-26T08:58:22.610632
+170,https://www.goodreads.com/book/show/170,The Book of Evidence,Peter Achinstein,3.79,14,2,,304,,,2025-07-26T08:58:22.621648
+171,https://www.goodreads.com/book/show/171,The Evidence-Based Social Work Skills Book,Barry R. Cournoyer,3.55,11,0,,224,,,2025-07-26T08:58:22.629679
+172,https://www.goodreads.com/book/show/172,Surgery: Basic Science and Clinical Evidence,Jeffrey A. Norton,3.83,6,0,,2170,,,2025-07-26T08:58:22.639063
+174,https://www.goodreads.com/book/show/174,The Book of Evidence,John Banville,3.70,"5,885",606,,Audio,,,2025-07-26T08:58:22.680302
+175,https://www.goodreads.com/book/show/175,A Challenge to the Critics: Scholarly Evidences of the Book of Mormon,Diane E. Wirth,4.00,11,2,,153,,,2025-07-26T08:58:22.707163
+176,https://www.goodreads.com/book/show/176,Little Known Evidences of the Book of Mormon,Brenton G. Yorgason,3.92,64,9,,49,,,2025-07-26T08:58:22.721539
+177,https://www.goodreads.com/book/show/177,"A Guide for Using ""A Wrinkle in Time"" in the Classroom",Teacher Created Resources,4.15,20,0,,48,,,2025-07-26T08:58:22.729590
+178,https://www.goodreads.com/book/show/178,A Wrinkle in Time by Madeleine L'Engle: Study Guide,Teri Shagoury,4.05,63,8,,82,,,2025-07-26T08:58:22.744439
+179,https://www.goodreads.com/book/show/179,A Wrinkle in Time: LitPlan Teacher Pack,Mary B. Collins,3.73,11,0,,113,,,2025-07-26T08:58:22.791357
+180,https://www.goodreads.com/book/show/180,Wrinkles in Time,George Smoot,4.03,"1,270",50,,360,,,2025-07-26T08:58:22.828568
+181,https://www.goodreads.com/book/show/181,A Wrinkle in Time: With Related Readings,Madeleine L'Engle,3.97,"1,263,107","42,118",,250,,,2025-07-26T08:58:22.868976
+182,https://www.goodreads.com/book/show/182,Literature Circle Guide: A Wrinkle in Time,Tara MacCarthy,3.60,15,0,,32,,,2025-07-26T08:58:22.895606
+183,https://www.goodreads.com/book/show/183,Un raccourci dans le temps,Madeleine L'Engle,3.97,"1,263,107","42,118",,254,,,2025-07-26T08:58:22.941369
+184,https://www.goodreads.com/book/show/184,Empress in the Wrinkle of Time,Valerie Metcalf Estoye,3.80,5,0,,508,,,2025-07-26T08:58:22.956000
+185,https://www.goodreads.com/book/show/185,Access to Literature: A Wrinkle in Time,LinguiSystems,3.90,10,0,,32,,,2025-07-26T08:58:22.970403
+186,https://www.goodreads.com/book/show/186,Wrinkles in Time: The Imprint of Creation,George Smoot,4.03,"1,270",50,,332,,,2025-07-26T08:58:23.031894
+188,https://www.goodreads.com/book/show/188,"Madeleine L'Engle: Author of ""A Wrinkle in Time""",Doreen Gonzales,4.32,65,5,,112,,,2025-07-26T08:58:23.057757
+189,https://www.goodreads.com/book/show/189,A Wrinkle in Time: A Reading Guide,Manuela Soares,3.78,9,1,,Hardcover,,,2025-07-26T08:58:23.074127
+190,https://www.goodreads.com/book/show/190,A Wrinkle in Time,Madeleine L'Engle,3.97,"1,263,107","42,118",,Audio,,,2025-07-26T08:58:23.147388
+191,https://www.goodreads.com/book/show/191,Literature Connections Sourcebook: A Wrinkle in Time and Related Readings,McDougal Littell,3.91,"1,443",5,,54,,,2025-07-26T08:58:23.161609
+192,https://www.goodreads.com/book/show/192,A Wrinkle in Time: L-I-T Guide,Charlotte S. Jaffe,3.91,54,3,,40,,,2025-07-26T08:58:23.184308
+193,https://www.goodreads.com/book/show/193,"A Literature Guide to ""A Wrinkle in Time"" by Madeleine L'Engle",Raymond E. Jones,3.71,7,0,,50,,,2025-07-26T08:58:23.196513
+194,https://www.goodreads.com/book/show/194,A Wrinkle in Time,Madeleine L'Engle,3.97,"1,263,107","42,118",,Audio,,,2025-07-26T08:58:23.260991
+195,https://www.goodreads.com/book/show/195,Decision & Responsibility: A Wrinkle in Time,H. Ganse Little,4.25,8,0,,Paperback,,,2025-07-26T08:58:23.269160
+196,https://www.goodreads.com/book/show/196,The Silver Sword,Laura Brierley,4.15,27,1,,24,,,2025-07-26T08:58:23.278974
+197,https://www.goodreads.com/book/show/197,A Wrinkle in Time: Teacher Guide,Anne Troy,4.09,23,2,,32,,,2025-07-26T08:58:23.301014
+198,https://www.goodreads.com/book/show/198,A Wrinkle in Time: Teaching Unit,James      Scott,4.27,11,0,,53,,,2025-07-26T08:58:23.317885
+199,https://www.goodreads.com/book/show/199,"Pasta, Poppy Fields & Pearls",Sophia Bar-Lev,3.50,40,8,,184,,,2025-07-26T08:58:23.338378
+200,https://www.goodreads.com/book/show/200,A Wrinkle in Time: Student Packet,"Novel Units, Inc.",4.00,9,0,,44,,,2025-07-26T08:58:23.391333
+201,https://www.goodreads.com/book/show/201,Una arruga en el tiempo,Madeleine L'Engle,3.97,"1,263,107","42,118",,205,,,2025-07-26T08:58:23.435692
+202,https://www.goodreads.com/book/show/202,The Long Shadow of Little Rock: A Memoir,Daisy Bates,4.21,293,38,,272,,,2025-07-26T08:58:23.471491
+203,https://www.goodreads.com/book/show/203,The Long Shadow of Temperament,Jerome Kagan,4.13,24,2,,304,,,2025-07-26T08:58:23.501150
+204,https://www.goodreads.com/book/show/204,The Long Shadow,Cynthia Harrod-Eagles,4.14,631,30,,368,,,2025-07-26T08:58:23.534212
+205,https://www.goodreads.com/book/show/205,A Long Shadow,Charles Todd,4.15,"5,641",396,,352,,,2025-07-26T08:58:23.568100
+206,https://www.goodreads.com/book/show/206,Vicksburg's Long Shadow: The Civil War Legacy of Race and Remembrance,Christopher Waldrep,3.29,17,4,,320,,,2025-07-26T08:58:23.579709
+207,https://www.goodreads.com/book/show/207,Long Way Round: Chasing Shadows Across the World,Ewan McGregor,3.97,"10,957",555,,320,,,2025-07-26T08:58:23.614150
+208,https://www.goodreads.com/book/show/208,A Shadow in Summer,Daniel Abraham,3.64,"13,335","1,048",,336,,,2025-07-26T08:58:23.659352
+209,https://www.goodreads.com/book/show/209,The Long Shadows,Clois G. Long,4.50,4,0,,Hardcover,,,2025-07-26T08:58:23.667257
+210,https://www.goodreads.com/book/show/210,"Long Shadows: Truth, Lies and History",Erna Paris,4.21,108,18,,496,,,2025-07-26T08:58:23.689830
+212,https://www.goodreads.com/book/show/212,Collected Memoirs of Charles Willeford: I Was Looking for a Street/Something About a Soldier,Charles Willeford,4.25,24,0,,342,,,2025-07-26T08:58:23.717423
+213,https://www.goodreads.com/book/show/213,New Hope for the Dead,Charles Willeford,3.82,"1,836",176,,244,,,2025-07-26T08:58:23.752537
+214,https://www.goodreads.com/book/show/214,Sideswipe,Charles Willeford,4.03,"1,456",155,,215,,,2025-07-26T08:58:23.826431
+215,https://www.goodreads.com/book/show/215,The Way We Die Now,Charles Willeford,4.06,"1,197",123,,256,,,2025-07-26T08:58:23.866803
+216,https://www.goodreads.com/book/show/216,Miami Blues,Charles Willeford,3.90,"5,121",435,,191,,,2025-07-26T08:58:23.902042
+217,https://www.goodreads.com/book/show/217,Charles Willeford Omnibus: Pick Up/Burnt Orange Heresy/Cockfighter,Charles Willeford,4.40,53,4,,602,,,2025-07-26T08:58:23.924852
+218,https://www.goodreads.com/book/show/218,The Woman Chaser,Charles Willeford,3.92,772,89,,192,,,2025-07-26T08:58:23.963050
+219,https://www.goodreads.com/book/show/219,The Machine in Ward Eleven,Charles Willeford,3.68,219,26,,160,,,2025-07-26T08:58:23.994132
+221,https://www.goodreads.com/book/show/221,Wild Wives,Charles Willeford,3.69,645,96,,102,,,2025-07-26T08:58:24.030098
+222,https://www.goodreads.com/book/show/222,The Shark-Infested Custard,Charles Willeford,3.79,773,110,,272,,,2025-07-26T08:58:24.065584
+224,https://www.goodreads.com/book/show/224,The Black Mass of Brother Springer,Charles Willeford,3.97,352,43,,208,,,2025-07-26T08:58:24.102009
+226,https://www.goodreads.com/book/show/226,Comedy after Postmodernism: Rereading Comedy from Edward Lear to Charles Willeford,Kirby Olson,3.63,8,0,,184,,,2025-07-26T08:58:24.132708
+228,https://www.goodreads.com/book/show/228,Cockfighter,Charles Willeford,4.13,"1,559",137,,200,,,2025-07-26T08:58:24.238865
+229,https://www.goodreads.com/book/show/229,Sideswipe,Charles Willeford,4.03,"1,456",155,,279,,,2025-07-26T08:58:24.278077
+230,https://www.goodreads.com/book/show/230,The Burnt Orange Heresy,Charles Willeford,3.76,"1,421",173,,144,,,2025-07-26T08:58:24.314188
+231,https://www.goodreads.com/book/show/231,I Am Charlotte Simmons,Tom Wolfe,3.45,"28,225","2,197",,738,,,2025-07-26T08:58:24.351933
+232,https://www.goodreads.com/book/show/232,I am Charlotte Simmons,Tom Wolfe,3.45,"28,225","2,197",,Audio,,,2025-07-26T08:58:24.395435
+234,https://www.goodreads.com/book/show/234,The Complete Verse and Other Nonsense,Edward Lear,4.15,"1,007",41,,624,,,2025-07-26T08:58:24.466166
+236,https://www.goodreads.com/book/show/236,The Complete Nonsense of Edward Lear,Edward Lear,3.97,"1,056",134,,287,,,2025-07-26T08:58:24.506613
+237,https://www.goodreads.com/book/show/237,Edward Lear,Edward Lear,3.95,94,24,,48,,,2025-07-26T08:58:24.533876
+238,https://www.goodreads.com/book/show/238,"Later Letters of Edward Lear to Chichester Fortescue (Lord Carlingford), Lady Waldegrave and Others",Lady Strachey,4.40,5,2,,366,,,2025-07-26T08:58:24.542848
+239,https://www.goodreads.com/book/show/239,An Edward Lear Alphabet,Edward Lear,3.27,63,12,,25,,,2025-07-26T08:58:24.572941
+240,https://www.goodreads.com/book/show/240,Edward Lear's Nonsense Verse,Edward Lear,3.60,"2,356",231,,35,,,2025-07-26T08:58:24.611096
+241,https://www.goodreads.com/book/show/241,A Was Once an Apple Pie,Edward Lear,3.39,248,74,,32,,,2025-07-26T08:58:24.683008
+242,https://www.goodreads.com/book/show/242,The Owl and the Pussycat,Edward Lear,4.18,"8,668",358,,32,,,2025-07-26T08:58:24.722893
+243,https://www.goodreads.com/book/show/243,The Pobble Who Has No Toes,Edward Lear,4.39,70,7,,24,,,2025-07-26T08:58:24.736205
+244,https://www.goodreads.com/book/show/244,The Puffin Book of Nonsense Verse,Quentin Blake,3.95,128,9,,287,,,2025-07-26T08:58:24.760305
+245,https://www.goodreads.com/book/show/245,Henry Miller on Writing,Henry Miller,4.23,"1,269",92,,217,,,2025-07-26T08:58:24.792760
+246,https://www.goodreads.com/book/show/246,The Colossus of Maroussi,Henry Miller,3.96,"5,124",508,,244,,,2025-07-26T08:58:24.830550
+247,https://www.goodreads.com/book/show/247,Quiet Days in Clichy,Henry Miller,3.62,"5,973",442,,154,,,2025-07-26T08:58:24.868229
+248,https://www.goodreads.com/book/show/248,Big Sur and the Oranges of Hieronymus Bosch,Henry Miller,4.03,"3,345",246,,400,,,2025-07-26T08:58:24.900893
+249,https://www.goodreads.com/book/show/249,Tropic of Cancer,Henry Miller,3.66,"76,576","4,936",,318,,,2025-07-26T08:58:24.939727
+250,https://www.goodreads.com/book/show/250,Tropic of Capricorn,Henry Miller,3.81,"21,066",959,,348,,,2025-07-26T08:58:24.986430
+251,https://www.goodreads.com/book/show/251,Nexus,Henry Miller,4.11,"4,192",128,,316,,,2025-07-26T08:58:25.022236
+252,https://www.goodreads.com/book/show/252,Sexus,Henry Miller,4.00,"10,101",485,,506,,,2025-07-26T08:58:25.095127
+253,https://www.goodreads.com/book/show/253,The Air-Conditioned Nightmare,Henry Miller,3.81,"3,452",238,,292,,,2025-07-26T08:58:25.159511
+254,https://www.goodreads.com/book/show/254,The Time of the Assassins: A Study of Rimbaud,Henry Miller,3.92,"1,274",129,,163,,,2025-07-26T08:58:25.232251
+255,https://www.goodreads.com/book/show/255,Public Places Urban Spaces: The Dimensions of Urban Design,Matthew Carmona,4.16,129,7,,192,,,2025-07-26T08:58:25.246246
+256,https://www.goodreads.com/book/show/256,Behavior in Public Places: Notes on the Social Organization of Gatherings,Erving Goffman,4.05,302,16,,248,,,2025-07-26T08:58:25.268263
+257,https://www.goodreads.com/book/show/257,Haunted Places in America: A Guide to Spooked and Spooky Public Places in the United States,Charles A. Coulombe,3.50,24,2,,288,,,2025-07-26T08:58:25.278516
+258,https://www.goodreads.com/book/show/258,"Public Places: My Life in the Theater, with Peter O'Toole and Beyond",Siân Phillips,3.82,62,8,,456,,,2025-07-26T08:58:25.292403
+259,https://www.goodreads.com/book/show/259,Together Alone: Personal Relationships in Public Places,Calvin Morrill,3.46,13,1,,322,,,2025-07-26T08:58:25.301606
+260,https://www.goodreads.com/book/show/260,Squares: A Public Place Design Guide for Urbanists,Mark C. Childs,3.88,8,0,,230,,,2025-07-26T08:58:25.310141
+261,https://www.goodreads.com/book/show/261,Just in Time! Pastoral Prayers in Public Places,F. Belton Joyner Jr.,3.80,5,0,,80,,,2025-07-26T08:58:25.319626
+262,https://www.goodreads.com/book/show/262,Pike Place Public Market Seafood Cookbook,Braiden Rex-Johnson,3.82,28,2,,144,,,2025-07-26T08:58:25.330950
+263,https://www.goodreads.com/book/show/263,Art for Public Places Critical Issues,Malcolm Miles,4.00,5,1,,244,,,2025-07-26T08:58:25.339757
+264,https://www.goodreads.com/book/show/264,The Portrait of a Lady,Henry James,3.80,"84,033","4,263",,797,,,2025-07-26T08:58:25.383350
+265,https://www.goodreads.com/book/show/265,The Portrait of a Lady,Janet McAlpin,3.55,11,3,,Paperback,,,2025-07-26T08:58:25.393758
+266,https://www.goodreads.com/book/show/266,The Portrait of a Lady,Henry James,3.80,"84,033","4,263",,Audio,,,2025-07-26T08:58:25.434134
+267,https://www.goodreads.com/book/show/267,Portrait of the Blue Lady: The Character of Melancholy,Lyn Cowan,4.36,11,1,,314,,,2025-07-26T08:58:25.460599
+268,https://www.goodreads.com/book/show/268,The Portrait of a Lady,Henry James,3.80,"84,033","4,263",,692,,,2025-07-26T08:58:25.505488
+269,https://www.goodreads.com/book/show/269,The Portrait of a Lady,Henry James,3.80,"84,033","4,263",,635,,,2025-07-26T08:58:25.588799
+270,https://www.goodreads.com/book/show/270,The Portrait of a Lady,Henry James,3.80,"84,033","4,263",,640,,,2025-07-26T08:58:25.635963
+271,https://www.goodreads.com/book/show/271,New Essays on 'The Portrait of a Lady',Joel Porte,3.20,5,0,,178,,,2025-07-26T08:58:25.654968
+272,https://www.goodreads.com/book/show/272,The Portrait of a Lady,Henry James,3.80,"84,033","4,263",,548,,,2025-07-26T08:58:25.697164
+273,https://www.goodreads.com/book/show/273,The Portrait of a Lady,Henry James,3.80,"84,033","4,263",,4,,,2025-07-26T08:58:25.738954
+274,https://www.goodreads.com/book/show/274,The Portrait of a Lady,Henry James,3.80,"84,033","4,263",,Audio,,,2025-07-26T08:58:25.778865
+275,https://www.goodreads.com/book/show/275,The Lover,Marguerite Duras,3.71,"68,080","6,727",,117,,,2025-07-26T08:58:25.822702
+276,https://www.goodreads.com/book/show/276,Hiroshima mon amour,Marguerite Duras,3.87,"6,831",519,,Paperback,,,2025-07-26T08:58:25.860179
+277,https://www.goodreads.com/book/show/277,Writing,Marguerite Duras,3.66,"3,901",474,,91,,,2025-07-26T08:58:25.906924
+278,https://www.goodreads.com/book/show/278,The War,Marguerite Duras,3.86,"4,141",380,,192,,,2025-07-26T08:58:25.943561
+279,https://www.goodreads.com/book/show/279,Craniosacral Therapy II: Beyond the Dura,John E. Upledger,4.35,57,1,,259,,,2025-07-26T08:58:25.981741
+280,https://www.goodreads.com/book/show/280,The Ravishing of Lol Stein,Marguerite Duras,3.60,"5,862",579,,181,,,2025-07-26T08:58:26.084932
+281,https://www.goodreads.com/book/show/281,"Destroy, She Said",Marguerite Duras,3.56,"1,264",128,,133,,,2025-07-26T08:58:26.154723
+282,https://www.goodreads.com/book/show/282,L'amour,Marguerite Duras,3.22,"1,679",228,,217,,,2025-07-26T08:58:26.191888
+283,https://www.goodreads.com/book/show/283,L'Amant de la Chine du Nord,Marguerite Duras,3.81,"3,947",354,,246,,,2025-07-26T08:58:26.227896
+284,https://www.goodreads.com/book/show/284,Treasury of Kahlil Gibran,Kahlil Gibran,4.44,"2,153",103,,456,,,2025-07-26T08:58:26.260686
+285,https://www.goodreads.com/book/show/285,Gibran: Love Letters,Kahlil Gibran,3.76,480,40,,178,,,2025-07-26T08:58:26.297697
+286,https://www.goodreads.com/book/show/286,The Prophet,Kahlil Gibran,4.23,"321,002","16,378",,128,,,2025-07-26T08:58:26.333468
+288,https://www.goodreads.com/book/show/288,Kahlil Gibran: His Life and World,Jean Gibran,4.19,43,4,,456,,,2025-07-26T08:58:26.345895
+289,https://www.goodreads.com/book/show/289,The Beloved: Reflections on the Path of the Heart,Kahlil Gibran,4.18,444,31,,102,,,2025-07-26T08:58:26.380759
+290,https://www.goodreads.com/book/show/290,Jesus the Son of Man,Kahlil Gibran,4.01,"2,885",284,,216,,,2025-07-26T08:58:26.427369
+291,https://www.goodreads.com/book/show/291,The Broken Wings,Kahlil Gibran,3.96,"27,642","3,723",,132,,,2025-07-26T08:58:26.533904
+292,https://www.goodreads.com/book/show/292,Sand and Foam,Kahlil Gibran,4.03,"7,678",878,,100,,,2025-07-26T08:58:26.577810
+293,https://www.goodreads.com/book/show/293,The Wisdom of Kahlil Gibran,Kahlil Gibran,4.16,182,8,,Paperback,,,2025-07-26T08:58:26.593687
+295,https://www.goodreads.com/book/show/295,Treasure Island,Robert Louis Stevenson,3.85,"528,059","18,626",,352,,,2025-07-26T08:58:26.640692
+296,https://www.goodreads.com/book/show/296,Treasure Island,Robert Louis Stevenson,3.85,"528,059","18,626",,213,,,2025-07-26T08:58:26.686953
+297,https://www.goodreads.com/book/show/297,Treasure Island,Robert Louis Stevenson,3.85,"528,059","18,626",,245,,,2025-07-26T08:58:26.726979
+298,https://www.goodreads.com/book/show/298,Treasure Island,Robert Louis Stevenson,3.85,"528,059","18,626",,64,,,2025-07-26T08:58:26.767232
+299,https://www.goodreads.com/book/show/299,Treasure Island,Robert Louis Stevenson,3.85,"528,059","18,626",,272,,,2025-07-26T08:58:26.807340
+300,https://www.goodreads.com/book/show/300,Treasure Island,Robert Louis Stevenson,3.85,"528,059","18,626",,Audio,,,2025-07-26T08:58:26.856627
+301,https://www.goodreads.com/book/show/301,Treasure Island,Robert Louis Stevenson,3.85,"528,059","18,626",,Audio,,,2025-07-26T08:58:26.901654
+302,https://www.goodreads.com/book/show/302,Treasure Island,Deidre S. Laiken,4.06,"4,167",137,,232,,,2025-07-26T08:58:26.956897
+303,https://www.goodreads.com/book/show/303,Cliffs Notes on Stevenson's Treasure Island & Kidnapped,Gary Carey,4.60,5,0,,82,,,2025-07-26T08:58:26.997609
+304,https://www.goodreads.com/book/show/304,Daniel Deronda,George Eliot,3.86,"26,578","1,469",,796,,,2025-07-26T08:58:27.052196
+305,https://www.goodreads.com/book/show/305,George Eliot and Judaism: An Attempt to Appreciate 'Daniel Deronda',David  Kaufmann,5.00,3,0,,100,,,2025-07-26T08:58:27.062843
+306,https://www.goodreads.com/book/show/306,Daniel Deronda Notebooks,George Eliot,3.77,13,0,,568,,,2025-07-26T08:58:27.075573
+307,https://www.goodreads.com/book/show/307,Daniel Deronda: A Conversation,Henry James,3.25,12,0,,48,,,2025-07-26T08:58:27.093285
+309,https://www.goodreads.com/book/show/309,Daniel Deronda,George Eliot,4.25,52,9,,384,,,2025-07-26T08:58:27.111009
+310,https://www.goodreads.com/book/show/310,Jazz: The First 100 Years,Henry  Martin,4.24,25,0,,438,,,2025-07-26T08:58:27.122092
+311,https://www.goodreads.com/book/show/311,Essential Jazz: The First 100 Years,Henry  Martin,4.38,24,1,,311,,,2025-07-26T08:58:27.132865
+312,https://www.goodreads.com/book/show/312,Flight: 100 Years of Aviation,R.G. Grant,4.35,226,14,,440,,,2025-07-26T08:58:27.152383
+313,https://www.goodreads.com/book/show/313,100 Years of Lynchings,Ralph Ginzburg,4.64,170,14,,270,,,2025-07-26T08:58:27.177898
+314,https://www.goodreads.com/book/show/314,If You Lived 100 Years Ago,Ann McGovern,3.98,167,24,,80,,,2025-07-26T08:58:27.206312
+315,https://www.goodreads.com/book/show/315,Camp Cooking: 100 Years,National Museum of Forest Service History,4.16,91,5,,192,,,2025-07-26T08:58:27.220042
+317,https://www.goodreads.com/book/show/317,El Siglo del Espiritu Santo,Vinson Synan,3.87,82,3,,553,,,2025-07-26T08:58:27.247697
+318,https://www.goodreads.com/book/show/318,The Next 100 Years,Dennis Cramer,3.86,14,2,,144,,,2025-07-26T08:58:27.257322
+319,https://www.goodreads.com/book/show/319,Disney: The First 100 Years,Dave   Smith,3.98,116,7,,224,,,2025-07-26T08:58:27.272793
+320,https://www.goodreads.com/book/show/320,One Hundred Years of Solitude,Gabriel García Márquez,4.12,"1,069,482","56,002",,417,,,2025-07-26T08:58:27.313975
+321,https://www.goodreads.com/book/show/321,Cliffs Notes on Garcia Marquez' 100 Hundred Years of Solitude,Carl Senna,4.08,59,8,,70,,,2025-07-26T08:58:27.328101
+322,https://www.goodreads.com/book/show/322,Cien años de soledad,Gabriel García Márquez,4.12,"1,069,482","56,002",,495,,,2025-07-26T08:58:27.368180
+323,https://www.goodreads.com/book/show/323,100 Years of Solitude: Modes of Reading,Regina Janes,3.96,249,17,,176,,,2025-07-26T08:58:27.400508
+324,https://www.goodreads.com/book/show/324,Cien años de soledad,Gabriel García Márquez,4.12,"1,069,482","56,002",,560,,,2025-07-26T08:58:27.446589
+325,https://www.goodreads.com/book/show/325,Cien años de soledad,Gabriel García Márquez,4.12,"1,069,482","56,002",,456,,,2025-07-26T08:58:27.487088
+326,https://www.goodreads.com/book/show/326,One Hundred Years of Solitude,Gabriel García Márquez,4.12,"1,069,482","56,002",,422,,,2025-07-26T08:58:27.536833
+327,https://www.goodreads.com/book/show/327,Why Zebras Don't Get Ulcers,Robert M. Sapolsky,4.17,"16,460","1,462",,560,,,2025-07-26T08:58:27.584345
+328,https://www.goodreads.com/book/show/328,Chess for Zebras: Thinking Differently about Black and White,Jonathan Rowson,4.37,142,15,,256,,,2025-07-26T08:58:27.619014
+329,https://www.goodreads.com/book/show/329,What if the Zebras Lost Their Stripes?,John Reitano,4.18,93,16,,32,,,2025-07-26T08:58:27.659024
+330,https://www.goodreads.com/book/show/330,On Beyond Zebra!,Dr. Seuss,4.02,"3,724",316,,60,,,2025-07-26T08:58:27.697326
+331,https://www.goodreads.com/book/show/331,Ziggy the Zebra: A One-of-a-kind Pop-up Book,Libby Ellis,3.93,15,1,,14,,,2025-07-26T08:58:27.717306
+332,https://www.goodreads.com/book/show/332,The Wedding Clause,Debbie Raleigh,3.61,235,35,,254,,,2025-07-26T08:58:27.753473
+333,https://www.goodreads.com/book/show/333,The Zebra Wall,Kevin Henkes,3.48,254,34,,147,,,2025-07-26T08:58:27.788045
+334,https://www.goodreads.com/book/show/334,"""A"" Is for Zebra",Mark Shulman,3.75,71,33,,32,,,2025-07-26T08:58:27.826660
+335,https://www.goodreads.com/book/show/335,Lots and Lots of Zebra Stripes,Stephen R. Swinburne,3.81,48,8,,32,,,2025-07-26T08:58:27.841199
+336,https://www.goodreads.com/book/show/336,Why Zebras Don't Get Ulcers,Robert M. Sapolsky,4.17,"16,460","1,462",,367,,,2025-07-26T08:58:27.877447
+337,https://www.goodreads.com/book/show/337,El perfume: Historia de un asesino,Patrick Süskind,4.04,"529,767","31,378",,240,,,2025-07-26T08:58:27.923973
+338,https://www.goodreads.com/book/show/338,Jitterbug Perfume,Tom Robbins,4.23,"79,691","4,493",,342,,,2025-07-26T08:58:27.967396
+339,https://www.goodreads.com/book/show/339,"Perfumes, Splashes & Colognes: Discovering and Crafting Your Personal Fragrances",Nancy M. Booth,3.69,75,2,,176,,,2025-07-26T08:58:27.982733
+340,https://www.goodreads.com/book/show/340,The Wonderful World of Collecting Perfume Bottles: Identification & Value Guide,Jane Flanagan,4.09,11,0,,176,,,2025-07-26T08:58:28.000025
+341,https://www.goodreads.com/book/show/341,Perfume Dreams: Reflections on the Vietnamese Diaspora,Andrew Lam,4.03,270,38,,160,,,2025-07-26T08:58:28.062552
+342,https://www.goodreads.com/book/show/342,Essence and Alchemy: A Book of Perfume,Mandy Aftel,4.09,834,65,,272,,,2025-07-26T08:58:28.102935
+343,https://www.goodreads.com/book/show/343,Perfume. The story of a murderer,Patrick Süskind,4.04,"529,767","31,378",,263,,,2025-07-26T08:58:28.159503
+344,https://www.goodreads.com/book/show/344,Scents & Sensibilities: Creating Solid Perfumes for Well-Being,Mandy Aftel,3.90,84,2,,96,,,2025-07-26T08:58:28.169060
+345,https://www.goodreads.com/book/show/345,Perfume: The Art And Science of Scent,Cathy Newman,3.89,74,8,,Hardcover,,,2025-07-26T08:58:28.184484
+346,https://www.goodreads.com/book/show/346,The Perfume Guide,Susan Irvine,4.06,18,2,,144,,,2025-07-26T08:58:28.193772
+347,https://www.goodreads.com/book/show/347,Off the Main Sequence: The Other Science Fiction Stories of Robert A. Heinlein,Robert A. Heinlein,3.97,303,28,,738,,,2025-07-26T08:58:28.226880
+348,https://www.goodreads.com/book/show/348,The Door Into Summer,Robert A. Heinlein,4.02,"28,108","1,592",,304,,,2025-07-26T08:58:28.272838
+349,https://www.goodreads.com/book/show/349,The Moon is a Harsh Mistress,Robert A. Heinlein,4.15,"136,843","5,557",,382,,,2025-07-26T08:58:28.318955
+350,https://www.goodreads.com/book/show/350,Stranger in a Strange Land,Robert A. Heinlein,3.92,"323,212","10,795",,525,,,2025-07-26T08:58:28.357035
+351,https://www.goodreads.com/book/show/351,Starman Jones,Robert A. Heinlein,3.89,"9,070",406,,272,,,2025-07-26T08:58:28.394839
+352,https://www.goodreads.com/book/show/352,The Notebooks of Lazarus Long,Robert A. Heinlein,4.08,"3,769",59,,56,,,2025-07-26T08:58:28.428355
+353,https://www.goodreads.com/book/show/353,Time Enough for Love,Robert A. Heinlein,3.97,"36,714","1,094",,589,,,2025-07-26T08:58:28.490404
+354,https://www.goodreads.com/book/show/354,To Sail Beyond the Sunset,Robert A. Heinlein,3.88,"11,593",270,,434,,,2025-07-26T08:58:28.623673
+355,https://www.goodreads.com/book/show/355,Job: A Comedy of Justice,Robert A. Heinlein,3.78,"18,489",618,,440,,,2025-07-26T08:58:28.720054
+356,https://www.goodreads.com/book/show/356,Time for the Stars,Robert A. Heinlein,3.98,"9,645",452,,256,,,2025-07-26T08:58:28.756621
+357,https://www.goodreads.com/book/show/357,The Long Dark Tea-Time of the Soul,Douglas Adams,4.04,"88,586","2,543",,307,,,2025-07-26T08:58:28.791681
+358,https://www.goodreads.com/book/show/358,Dirk Gently's Holistic Detective Agency,Douglas Adams,3.97,"146,612","4,950",,247,,,2025-07-26T08:58:28.832811
+359,https://www.goodreads.com/book/show/359,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,3.94,"30,515","1,225",,298,,,2025-07-26T08:58:28.869694
+360,https://www.goodreads.com/book/show/360,Mostly Harmless,Douglas Adams,3.96,"136,910","3,973",,240,,,2025-07-26T08:58:28.910658
+361,https://www.goodreads.com/book/show/361,"Life, the Universe and Everything",Douglas Adams,4.16,"246,125","5,815",,232,,,2025-07-26T08:58:28.959943
+362,https://www.goodreads.com/book/show/362,Wish You Were Here: The Official Biography of Douglas Adams,Nick  Webb,4.14,"2,895",71,,368,,,2025-07-26T08:58:29.053767
+363,https://www.goodreads.com/book/show/363,The Long Dark Tea-Time of the Soul,Douglas Adams,4.04,"88,586","2,543",,Audio,,,2025-07-26T08:58:29.098641
+364,https://www.goodreads.com/book/show/364,The Long Dark Tea-Time of the Soul,Douglas Adams,4.04,"88,586","2,543",,Audio,,,2025-07-26T08:58:29.151200
+365,https://www.goodreads.com/book/show/365,Dirk Gently's Holistic Detective Agency,Douglas Adams,3.97,"146,612","4,950",,306,,,2025-07-26T08:58:29.192325
+366,https://www.goodreads.com/book/show/366,Velvet: A Novel of Suspense,Alec Kalla,2.57,7,3,,221,,,2025-07-26T08:58:29.204824
+367,https://www.goodreads.com/book/show/367,Douglas Adams's Starship Titanic,Terry Jones,3.61,"13,268",567,,256,,,2025-07-26T08:58:29.242166
+369,https://www.goodreads.com/book/show/369,Douglas Adams Starship Titanic: The Official Strategy Guide,Neil Richards,3.70,86,6,,176,,,2025-07-26T08:58:29.256292
+371,https://www.goodreads.com/book/show/371,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,3.94,"30,515","1,225",,299,,,2025-07-26T08:58:29.293639
+372,https://www.goodreads.com/book/show/372,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,3.94,"30,515","1,225",,7,,,2025-07-26T08:58:29.330092
+373,https://www.goodreads.com/book/show/373,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,3.94,"30,515","1,225",,Audio,,,2025-07-26T08:58:29.380068
+374,https://www.goodreads.com/book/show/374,Salmon Doubts,Adam Sacks,3.18,175,36,,128,,,2025-07-26T08:58:29.418019
+375,https://www.goodreads.com/book/show/375,Salmon of Doubt,Douglas Adams,3.94,"30,515","1,225",,Audio,,,2025-07-26T08:58:29.484961
+376,https://www.goodreads.com/book/show/376,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,3.94,"30,515","1,225",,Audio,,,2025-07-26T08:58:29.558051
+377,https://www.goodreads.com/book/show/377,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,3.94,"30,515","1,225",,336,,,2025-07-26T08:58:29.757601
+378,https://www.goodreads.com/book/show/378,The Phantom Tollbooth,Norton Juster,4.20,"301,729","14,503",,248,,,2025-07-26T08:58:29.795353
+379,https://www.goodreads.com/book/show/379,A Guide for Using The Phantom Tollbooth in the Classroom,Kathleen L. Bulloch,4.31,16,0,,48,,,2025-07-26T08:58:29.803208
+380,https://www.goodreads.com/book/show/380,A Colorful Symphony: Full Score,Robert Xavier Rodríguez,5.00,1,1,,68,,,2025-07-26T08:58:29.812702
+381,https://www.goodreads.com/book/show/381,La Caseta Magica,Norton Juster,4.20,"301,729","14,503",,Library,,,2025-07-26T08:58:29.852423
+382,https://www.goodreads.com/book/show/382,The Phantom Tollbooth: A Children's Play in Two Acts,Susan Nanus,4.09,164,17,,70,,,2025-07-26T08:58:29.873240
+383,https://www.goodreads.com/book/show/383,The Phantom Tollbooth,Norton Juster,4.20,"301,729","14,503",,Audio,,,2025-07-26T08:58:29.911469
+384,https://www.goodreads.com/book/show/384,A Literature Guide: The Phantom Tollbooth by Norton Juster,Barbara Moross,5.00,2,0,,85,,,2025-07-26T08:58:29.921493
+385,https://www.goodreads.com/book/show/385,On Bullshit,Harry G. Frankfurt,3.58,"15,243","1,766",,67,,,2025-07-26T08:58:29.959715
+386,https://www.goodreads.com/book/show/386,Another Bullshit Night in Suck City,Nick Flynn,3.80,"11,799","1,118",,347,,,2025-07-26T08:58:30.003861
+387,https://www.goodreads.com/book/show/387,100 Bullshit Jobs...And How to Get Them,Stanley Bing,3.13,199,31,,320,,,2025-07-26T08:58:30.041637
+388,https://www.goodreads.com/book/show/388,The Business of Bullshit,Graham Edmonds,3.63,19,4,,193,,,2025-07-26T08:58:30.120456
+389,https://www.goodreads.com/book/show/389,Bull$#*! Artist: The 9/11 Leadership Myth,Ron Schalow,4.67,6,0,,325,,,2025-07-26T08:58:30.153652
+390,https://www.goodreads.com/book/show/390,Your Call Is Important to Us: The Truth About Bullshit,Laura Penny,3.40,344,41,,272,,,2025-07-26T08:58:30.190739
+391,https://www.goodreads.com/book/show/391,"The Dictionary of Bullshit: A Shamlessly Opinionated Guide To All That Is Absurd, Misleading and Insincere",Nick  Webb,3.18,34,3,,166,,,2025-07-26T08:58:30.202135
+392,https://www.goodreads.com/book/show/392,"Bullets, Badges, And Bullshit",Phil T. O'Brien,5.00,2,0,,443,,,2025-07-26T08:58:30.210000
+393,https://www.goodreads.com/book/show/393,"Hello, Lied the Agent: And Other Bullshit You Hear as a Hollywood TV Writer",Ian Gurvitz,3.40,68,10,,346,,,2025-07-26T08:58:30.227970
+394,https://www.goodreads.com/book/show/394,Lincoln at Gettysburg: The Words That Remade America,Garry Wills,4.16,"8,534",305,,317,,,2025-07-26T08:58:30.271597
+395,https://www.goodreads.com/book/show/395,Lincoln's Gettysburg Address in Translation,Abraham Lincoln,4.52,"7,662",229,,62,,,2025-07-26T08:58:30.316242
+396,https://www.goodreads.com/book/show/396,Abraham Lincoln's Gettysburg Address: Four Score and More,Barbara Silberdick Feinberg,4.00,4,0,,79,,,2025-07-26T08:58:30.326146
+397,https://www.goodreads.com/book/show/397,The Gettysburg Address,Abraham Lincoln,4.52,"7,662",229,,32,,,2025-07-26T08:58:30.364085
+398,https://www.goodreads.com/book/show/398,The Battle of Gettysburg and Lincoln's Gettysburg Address,Carin T. Ford,4.22,9,3,,48,,,2025-07-26T08:58:30.374164
+399,https://www.goodreads.com/book/show/399,Underworld,Don DeLillo,3.95,"33,120","2,674",,827,,,2025-07-26T08:58:30.413527
+400,https://www.goodreads.com/book/show/400,Libra,Don DeLillo,4.05,"19,585","1,482",,480,,,2025-07-26T08:58:30.449147
+401,https://www.goodreads.com/book/show/401,Don DeLillo's White Noise,Harold Bloom,3.74,38,2,,246,,,2025-07-26T08:58:30.492956
+402,https://www.goodreads.com/book/show/402,Mao II,Don DeLillo,3.69,"12,818",935,,241,,,2025-07-26T08:58:30.532713
+403,https://www.goodreads.com/book/show/403,Americana,Don DeLillo,3.40,"6,346",555,,377,,,2025-07-26T08:58:30.593573
+404,https://www.goodreads.com/book/show/404,Running Dog,Don DeLillo,3.46,"2,283",198,,256,,,2025-07-26T08:58:30.635614
+405,https://www.goodreads.com/book/show/405,Ratner's Star,Don DeLillo,3.47,"2,330",248,,449,,,2025-07-26T08:58:30.672291
+406,https://www.goodreads.com/book/show/406,Cosmopolis,Don DeLillo,3.26,"18,383","1,759",,224,,,2025-07-26T08:58:30.716603
+407,https://www.goodreads.com/book/show/407,Great Jones Street,Don DeLillo,3.48,"3,760",331,,273,,,2025-07-26T08:58:30.756195
+408,https://www.goodreads.com/book/show/408,The Names,Don DeLillo,3.64,"4,896",442,,339,,,2025-07-26T08:58:30.794433
+409,https://www.goodreads.com/book/show/409,Against the Day,Thomas Pynchon,4.05,"10,021","1,066",,1085,,,2025-07-26T08:58:30.833160
+410,https://www.goodreads.com/book/show/410,V.,Thomas Pynchon,3.97,"24,774","1,491",,547,,,2025-07-26T08:58:30.880021
+411,https://www.goodreads.com/book/show/411,The Crying of Lot 49,Thomas Pynchon,3.69,"93,700","7,391",,152,,,2025-07-26T08:58:30.920577
+412,https://www.goodreads.com/book/show/412,Gravity's Rainbow,Thomas Pynchon,4.01,"46,880","4,711",,784,,,2025-07-26T08:58:30.975788
+413,https://www.goodreads.com/book/show/413,Mason & Dixon,Thomas Pynchon,4.13,"12,146","1,249",,773,,,2025-07-26T08:58:31.016398
+414,https://www.goodreads.com/book/show/414,Vineland,Thomas Pynchon,3.75,"13,998","1,338",,385,,,2025-07-26T08:58:31.059445
+415,https://www.goodreads.com/book/show/415,Gravity’s Rainbow,Thomas Pynchon,4.01,"46,880","4,711",,776,,,2025-07-26T08:58:31.113936
+416,https://www.goodreads.com/book/show/416,Slow Learner: Early Stories,Thomas Pynchon,3.53,"5,262",434,,193,,,2025-07-26T08:58:31.157458
+417,https://www.goodreads.com/book/show/417,Thomas Pynchon,Harold Bloom,3.69,29,3,,322,,,2025-07-26T08:58:31.169029
+418,https://www.goodreads.com/book/show/418,Been Down So Long It Looks Like Up to Me,Richard Fariña,3.78,"3,628",392,,352,,,2025-07-26T08:58:31.209464
+419,https://www.goodreads.com/book/show/419,Vintage Didion,Joan Didion,4.08,535,39,,200,,,2025-07-26T08:58:31.251321
+420,https://www.goodreads.com/book/show/420,The Year of Magical Thinking,Joan Didion,3.93,"284,728","26,389",,227,,,2025-07-26T08:58:31.290218
+421,https://www.goodreads.com/book/show/421,The White Album,Joan Didion,4.03,"47,296","5,390",,224,,,2025-07-26T08:58:31.328891
+422,https://www.goodreads.com/book/show/422,A Book of Common Prayer,Joan Didion,3.80,"6,253",707,,272,,,2025-07-26T08:58:31.365867
+423,https://www.goodreads.com/book/show/423,Where I Was From,Joan Didion,3.86,"6,195",760,,240,,,2025-07-26T08:58:31.414614
+424,https://www.goodreads.com/book/show/424,Slouching Towards Bethlehem,Joan Didion,4.19,"78,672","8,616",,238,,,2025-07-26T08:58:31.506210
+425,https://www.goodreads.com/book/show/425,Democracy,Joan Didion,3.85,"4,123",521,,234,,,2025-07-26T08:58:31.550896
+426,https://www.goodreads.com/book/show/426,We Tell Ourselves Stories in Order to Live: Collected Nonfiction,Joan Didion,4.43,"2,118",145,,1122,,,2025-07-26T08:58:31.585142
+427,https://www.goodreads.com/book/show/427,Miami,Joan Didion,3.67,"2,886",348,,240,,,2025-07-26T08:58:31.631482
+428,https://www.goodreads.com/book/show/428,Play It As It Lays,Joan Didion,3.91,"85,162","10,625",,231,,,2025-07-26T08:58:31.672142
+429,https://www.goodreads.com/book/show/429,Amazons: An Intimate Memoir by the First Woman Ever to Play in the National Hockey League,Cleo Birdwell,3.73,160,42,,390,,,2025-07-26T08:58:31.705865
+430,https://www.goodreads.com/book/show/430,Amazons,Cleo Birdwell,3.73,160,42,,362,,,2025-07-26T08:58:31.741640
+431,https://www.goodreads.com/book/show/431,The New York Trilogy,Paul Auster,3.86,"84,228","5,418",,308,,,2025-07-26T08:58:31.781830
+432,https://www.goodreads.com/book/show/432,City of Glass,Paul Auster,3.75,"23,025","1,773",,203,,,2025-07-26T08:58:31.875845
+433,https://www.goodreads.com/book/show/433,The New York Trilogy: City of Glass / Ghosts / The Locked Room,Paul Auster,3.86,"84,228","5,418",,384,,,2025-07-26T08:58:31.912840
+434,https://www.goodreads.com/book/show/434,Ghosts,Paul Auster,3.60,"7,723",543,,96,,,2025-07-26T08:58:31.979872
+435,https://www.goodreads.com/book/show/435,The Locked Room,Paul Auster,3.88,"6,395",466,,179,,,2025-07-26T08:58:32.052037
+436,https://www.goodreads.com/book/show/436,La trilogía de Nueva York,Paul Auster,3.86,"84,228","5,418",,344,,,2025-07-26T08:58:32.103552
+438,https://www.goodreads.com/book/show/438,"New York Trilogy: New York Underground, Trapped, Love and Sex",Paul Hallasy,5.00,2,0,,156,,,2025-07-26T08:58:32.112604
+439,https://www.goodreads.com/book/show/439,New York Dreams,Eric Brown,3.77,47,9,,336,,,2025-07-26T08:58:32.132393
+440,https://www.goodreads.com/book/show/440,New York Nights,Eric Brown,3.60,93,11,,327,,,2025-07-26T08:58:32.152831
+442,https://www.goodreads.com/book/show/442,The New York Trilogy: Whodunit?: Tracking the Structure of Paul Auster's Anti-Detective Novels,Anne M. Holzapfel,5.00,2,0,,Paperback,,,2025-07-26T08:58:32.162017
+443,https://www.goodreads.com/book/show/443,New York Blues,Eric Brown,3.91,44,5,,240,,,2025-07-26T08:58:32.175488
+444,https://www.goodreads.com/book/show/444,Pyramids of Montauk: Explorations in Consciousness,Preston B. Nichols,3.95,110,5,,256,,,2025-07-26T08:58:32.189987
+445,https://www.goodreads.com/book/show/445,All My Tomorrows,Al Lacy,4.03,245,22,,352,,,2025-07-26T08:58:32.217893
+446,https://www.goodreads.com/book/show/446,The Brooklyn Follies,Paul Auster,3.88,"31,578","2,445",,306,,,2025-07-26T08:58:32.256976
+447,https://www.goodreads.com/book/show/447,Moon Palace,Paul Auster,3.98,"28,369","1,692",,320,,,2025-07-26T08:58:32.296043
+448,https://www.goodreads.com/book/show/448,A Tomb for Anatole,Stéphane Mallarmé,4.37,196,29,,202,,,2025-07-26T08:58:32.341135
+449,https://www.goodreads.com/book/show/449,Timbuktu,Paul Auster,3.72,"16,489","1,428",,181,,,2025-07-26T08:58:32.381026
+450,https://www.goodreads.com/book/show/450,Neon Lit: Paul Auster's City of Glass,Paul Karasik,3.96,"8,656",575,,144,,,2025-07-26T08:58:32.445313
+451,https://www.goodreads.com/book/show/451,True Tales of American Life,Paul Auster,3.89,"3,684",410,,491,,,2025-07-26T08:58:32.520647
+452,https://www.goodreads.com/book/show/452,The Invention of Solitude,Paul Auster,3.76,"16,779","2,025",,192,,,2025-07-26T08:58:32.582340
+453,https://www.goodreads.com/book/show/453,The Music of Chance,Paul Auster,3.93,"12,969",776,,217,,,2025-07-26T08:58:32.618985
+454,https://www.goodreads.com/book/show/454,Travels in the Scriptorium,Paul Auster,3.26,"11,123","1,153",,145,,,2025-07-26T08:58:32.661558
+455,https://www.goodreads.com/book/show/455,In the Country of Last Things,Paul Auster,3.91,"15,487","1,378",,188,,,2025-07-26T08:58:32.702155
+456,https://www.goodreads.com/book/show/456,Leviathan,Paul Auster,3.97,"20,754","1,197",,275,,,2025-07-26T08:58:32.737340
+457,https://www.goodreads.com/book/show/457,Auggie Wren's Christmas Story,Paul Auster,3.85,"2,403",313,,36,,,2025-07-26T08:58:32.774028
+458,https://www.goodreads.com/book/show/458,Oracle Night,Paul Auster,3.81,"17,383","1,209",,256,,,2025-07-26T08:58:32.819951
+459,https://www.goodreads.com/book/show/459,The Random House Book of Twentieth Century French Poetry,Paul Auster,4.50,183,13,,688,,,2025-07-26T08:58:32.905944
+460,https://www.goodreads.com/book/show/460,Paul Auster's New York,Paul Auster,3.73,84,5,,97,,,2025-07-26T08:58:32.935096
+461,https://www.goodreads.com/book/show/461,The Inner Life of Martin Frost,Paul Auster,3.29,414,34,,40,,,2025-07-26T08:58:32.974109
+462,https://www.goodreads.com/book/show/462,Disappearances,Paul Auster,3.31,94,6,,126,,,2025-07-26T08:58:32.989002
+463,https://www.goodreads.com/book/show/463,The Red Notebook: True Stories,Paul Auster,3.78,"5,670",473,,104,,,2025-07-26T08:58:33.023645
+464,https://www.goodreads.com/book/show/464,Collected Poems,Paul Auster,3.59,326,32,,205,,,2025-07-26T08:58:33.056354
+465,https://www.goodreads.com/book/show/465,Paul Auster and Postmodern Quest: On the Road to Nowhere,Ilana Shiloh,5.00,1,0,,221,,,2025-07-26T08:58:33.064217
+467,https://www.goodreads.com/book/show/467,El libro de las ilusiones,Paul Auster,3.90,"26,186","1,724",,344,,,2025-07-26T08:58:33.116133
+468,https://www.goodreads.com/book/show/468,An Art of Desire: Reading Paul Auster,Bernd Herzogenrath,4.00,5,0,,256,,,2025-07-26T08:58:33.124781
+469,https://www.goodreads.com/book/show/469,Paul Auster,Harold Bloom,4.15,13,0,,254,,,2025-07-26T08:58:33.159784
+470,https://www.goodreads.com/book/show/470,"The Art of Hunger: Essays, Prefaces, Interviews, The Red Notebook",Paul Auster,3.86,561,24,,368,,,2025-07-26T08:58:33.192543
+471,https://www.goodreads.com/book/show/471,The World That Is the Book: Paul Auster's Fiction,Aliki Varvogli,3.55,11,1,,200,,,2025-07-26T08:58:33.203582
+472,https://www.goodreads.com/book/show/472,Why Write?,Paul Auster,3.81,175,19,,58,,,2025-07-26T08:58:33.229152
+473,https://www.goodreads.com/book/show/473,Beyond the Red Notebook: Essays on Paul Auster,Dennis Barone,4.14,14,0,,224,,,2025-07-26T08:58:33.239389
+474,https://www.goodreads.com/book/show/474,Paul Auster: Gravité et légèreté de l'écriture,François Gavillon,4.25,4,0,,211,,,2025-07-26T08:58:33.247024
+475,https://www.goodreads.com/book/show/475,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,3.93,"73,864","3,913",,608,,,2025-07-26T08:58:33.290252
+476,https://www.goodreads.com/book/show/476,The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel,Stephen Leeb,3.42,271,30,,224,,,2025-07-26T08:58:33.337338
+477,https://www.goodreads.com/book/show/477,The Collapse of Complex Societies,Joseph A. Tainter,4.15,"1,449",185,,264,,,2025-07-26T08:58:33.377550
+478,https://www.goodreads.com/book/show/478,Bowling Alone: The Collapse and Revival of American Community,Robert D. Putnam,3.85,"8,645","1,071",,544,,,2025-07-26T08:58:33.433386
+479,https://www.goodreads.com/book/show/479,The Collapse of Evolution,Scott M. Huse,4.02,107,11,,224,,,2025-07-26T08:58:33.460523
+480,https://www.goodreads.com/book/show/480,Collapse of Burning Buildings : A Guide to Fireground Safety,Vincent Dunn,4.43,60,2,,150,,,2025-07-26T08:58:33.471924
+481,https://www.goodreads.com/book/show/481,The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom,Philip K. Howard,3.97,73,4,,268,,,2025-07-26T08:58:33.493656
+482,https://www.goodreads.com/book/show/482,"Armageddon Averted: The Soviet Collapse, 1970-2000",Stephen Kotkin,3.79,"1,395",148,,245,,,2025-07-26T08:58:33.535469
+484,https://www.goodreads.com/book/show/484,Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America,Gloria Bird,4.40,354,30,,578,,,2025-07-26T08:58:33.568615
+485,https://www.goodreads.com/book/show/485,The Languages of Native North America,Marianne Mithun,4.51,35,6,,796,,,2025-07-26T08:58:33.581023
+487,https://www.goodreads.com/book/show/487,Searching for Lost City: On the Trail of America's Native Languages,Elizabeth Seay,4.00,13,2,,272,,,2025-07-26T08:58:33.596433
+488,https://www.goodreads.com/book/show/488,Indian Sign Language,William Tomkins,4.02,61,5,,128,,,2025-07-26T08:58:33.613297
+489,https://www.goodreads.com/book/show/489,Along the Clipper Way,Francis Chichester,4.00,48,7,,304,,,2025-07-26T08:58:33.633732
+490,https://www.goodreads.com/book/show/490,Along the Clipper Way,Francis Chichester,4.00,48,7,,287,,,2025-07-26T08:58:33.647217
+491,https://www.goodreads.com/book/show/491,"The Life and Adventures of John Nicol, Mariner",John Nicol,4.10,136,18,,208,,,2025-07-26T08:58:33.669912
+492,https://www.goodreads.com/book/show/492,The Fantastic Inventions of Nikola Tesla,Nikola Tesla,4.04,287,22,,324,,,2025-07-26T08:58:33.695368
+493,https://www.goodreads.com/book/show/493,My Inventions,Nikola Tesla,3.91,"12,435","1,007",,88,,,2025-07-26T08:58:33.728964
+494,https://www.goodreads.com/book/show/494,Wizard: The Life and Times of Nikola Tesla: Biography of a Genius,Marc J. Seifer,3.73,"6,429",561,,542,,,2025-07-26T08:58:33.767598
+495,https://www.goodreads.com/book/show/495,"Nikola Tesla: Colorado Springs Notes, 1899-1900",Nikola Tesla,4.07,30,1,,439,,,2025-07-26T08:58:33.787770
+496,https://www.goodreads.com/book/show/496,The Lost Journals of Nikola Tesla: HAARP - Chemtrails and the Secret of Alternative 4,Tim R. Swartz,4.07,60,6,,168,,,2025-07-26T08:58:33.824713
+497,https://www.goodreads.com/book/show/497,Nikola Tesla: A Spark of Genius,Carol Dommermuth-Costa,4.02,117,8,,144,,,2025-07-26T08:58:33.838216
+498,https://www.goodreads.com/book/show/498,The Tesla Papers: Nikola Tesla on Free Energy & Wireless Transmission of Power,Nikola Tesla,4.19,117,2,,100,,,2025-07-26T08:58:33.880102
+499,https://www.goodreads.com/book/show/499,21st Century Mysteries: Nikola Tesla: Federal Documents and References,U.S. Government,5.00,2,0,,23931,,,2025-07-26T08:58:33.889616
+500,https://www.goodreads.com/book/show/500,Problem of Increasing Human Energy,Nikola Tesla,4.20,504,45,,112,,,2025-07-26T08:58:33.945224
+501,https://www.goodreads.com/book/show/501,The Tesla Rotating Magnetic Field,Thomas Commerford Martin,4.00,3,0,,48,,,2025-07-26T08:58:35.479443
+502,https://www.goodreads.com/book/show/502,Art Invention House,Michael Webb,3.92,12,0,,320,,,2025-07-26T08:58:37.043627
+503,https://www.goodreads.com/book/show/503,How Invention Begins: Echoes of Old Voices in the Rise of New Machines,John H. Lienhard,3.90,21,3,,288,,,2025-07-26T08:58:38.383836
+504,https://www.goodreads.com/book/show/504,The Invention of Peace: Reflections on War and International Order,Michael Eliot Howard,3.65,156,14,,128,,,2025-07-26T08:58:39.755425
+505,https://www.goodreads.com/book/show/505,The Invention of Tradition,Eric J. Hobsbawm,3.96,"1,522",109,,320,,,2025-07-26T08:58:42.006084
+506,https://www.goodreads.com/book/show/506,The Story of Inventions,Frank Puterbaugh Bachman,3.91,90,4,,354,,,2025-07-26T08:58:43.328021
+507,https://www.goodreads.com/book/show/507,Amazing Leonardo da Vinci Inventions: You Can Build Yourself,Maxine Anderson,3.94,124,19,,128,,,2025-07-26T08:58:45.545288
+508,https://www.goodreads.com/book/show/508,The Complete Idiot's Guide to Cashing in On Your Inventions,Richard C. Levy,3.75,12,1,,359,,,2025-07-26T08:58:46.805092
+509,https://www.goodreads.com/book/show/509,The Invention of Love,Tom Stoppard,3.99,"2,296",167,,112,,,2025-07-26T08:58:49.250077
+510,https://www.goodreads.com/book/show/510,Sliding Into Home,Dori Hillestad Butler,3.99,106,24,,224,,,2025-07-26T08:58:50.712820
+511,https://www.goodreads.com/book/show/511,Boys of Summer,Julie Elizabeth Leto,3.77,502,18,,256,,,2025-07-26T08:58:52.707192
+512,https://www.goodreads.com/book/show/512,"When Johnny Came Sliding Home: The Post-Civil War Baseball Boom, 1865-1870",William J. Ryczek,4.50,10,1,,323,,,2025-07-26T08:58:54.482703
+513,https://www.goodreads.com/book/show/513,Sliding For Home,Frank Moher,1.00,1,1,,118,,,2025-07-26T08:58:55.813128
+514,https://www.goodreads.com/book/show/514,Sliding Home,Ray Holan,5.00,1,1,,binding,,,2025-07-26T08:58:57.415278
+515,https://www.goodreads.com/book/show/515,Programming Ruby: The Pragmatic Programmers' Guide,Dave         Thomas,4.04,"1,984",71,,829,,,2025-07-26T08:58:59.819987
+516,https://www.goodreads.com/book/show/516,Programming Ruby: A Pragmatic Programmer's Guide,Dave         Thomas,4.04,"1,984",71,,564,,,2025-07-26T08:59:02.208121
+517,https://www.goodreads.com/book/show/517,Best of Ruby Quiz,James Edward Gray II,3.38,26,0,,176,,,2025-07-26T08:59:02.884763
+518,https://www.goodreads.com/book/show/518,From Java to Ruby: Things Every Manager Should Know,Bruce A. Tate,3.20,30,3,,160,,,2025-07-26T08:59:04.828607
+519,https://www.goodreads.com/book/show/519,Rails Recipes,Chad Fowler,3.54,313,7,,332,,,2025-07-26T08:59:06.800092
+520,https://www.goodreads.com/book/show/520,Learn to Program,Chris  Pine,4.13,546,56,,149,,,2025-07-26T08:59:09.147011
+521,https://www.goodreads.com/book/show/521,"No Fluff, Just Stuff Anthology: The 2006 Edition",Neal Ford,3.38,26,1,,240,,,2025-07-26T08:59:10.459388
+522,https://www.goodreads.com/book/show/522,English-Cayuga/Cayuga-English Dictionary,Frances Froman,5.00,1,1,,750,,,2025-07-26T08:59:11.993081
+523,https://www.goodreads.com/book/show/523,Golding's Lord of the Flies,Maureen Kelly,3.97,121,10,,112,,,2025-07-26T08:59:13.690006
+524,https://www.goodreads.com/book/show/524,Lord of the Flies,William Golding,3.70,"3,116,293","64,079",,6,,,2025-07-26T08:59:15.368971
+525,https://www.goodreads.com/book/show/525,Lord of the Flies,William Golding,3.70,"3,116,293","64,079",,315,,,2025-07-26T08:59:17.961929
+526,https://www.goodreads.com/book/show/526,Lord of the Flies,William Golding,3.70,"3,116,293","64,079",,291,,,2025-07-26T08:59:21.042800
+527,https://www.goodreads.com/book/show/527,Cliffs Notes on Golding's Lord of the Flies,Maureen Kelly,3.97,121,10,,72,,,2025-07-26T08:59:22.858490
+528,https://www.goodreads.com/book/show/528,Lord of the Flies,SparkNotes,3.87,68,8,,72,,,2025-07-26T08:59:24.520913
+529,https://www.goodreads.com/book/show/529,Lord of the Flies Activity Pack,James      Scott,5.00,1,0,,144,,,2025-07-26T08:59:30.859733
+530,https://www.goodreads.com/book/show/530,Lord of the Flies,William Golding,3.70,"3,116,293","64,079",,3,,,2025-07-26T08:59:33.335557
+531,https://www.goodreads.com/book/show/531,A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War,Victor Davis Hanson,4.12,"3,055",225,,416,,,2025-07-26T08:59:38.959720
+532,https://www.goodreads.com/book/show/532,Jack: A Life Like No Other,Geoffrey Perrett,3.87,251,30,,480,,,2025-07-26T08:59:42.278021
+533,https://www.goodreads.com/book/show/533,Like No Other,Robert Mercer-Nairne,3.75,4,0,,400,,,2025-07-26T08:59:43.752990
+534,https://www.goodreads.com/book/show/534,We Were Not Like Other People,Ephraim Sevela,4.17,18,2,,216,,,2025-07-26T08:59:45.402516
+535,https://www.goodreads.com/book/show/535,Brandy Station: A Battle Like None Other,Richard E. Crouch,3.00,1,0,,296,,,2025-07-26T08:59:46.336209
+536,https://www.goodreads.com/book/show/536,The Lovely Bones,Alice Sebold,3.86,"2,439,187","48,925",,327,,,2025-07-26T08:59:49.157926
+537,https://www.goodreads.com/book/show/537,The Lovely Bones,Alice Sebold,3.86,"2,439,187","48,925",,328,,,2025-07-26T08:59:51.233637
+538,https://www.goodreads.com/book/show/538,The Lovely Bones,Alice Sebold,3.86,"2,439,187","48,925",,527,,,2025-07-26T08:59:53.491901
+539,https://www.goodreads.com/book/show/539,Lovely in Her Bones,Sharyn McCrumb,3.82,"1,745",71,,224,,,2025-07-26T08:59:55.488220
+542,https://www.goodreads.com/book/show/542,How to Invest in Self-Storage,Scott  Duffy,4.20,10,0,,106,,,2025-07-26T08:59:59.836516
+543,https://www.goodreads.com/book/show/543,USB Mass Storage: Designing and Programming Devices and Embedded Hosts,Jan Axelson,3.57,7,1,,287,,,2025-07-26T09:00:01.452622
+544,https://www.goodreads.com/book/show/544,Storage Area Networks for Dummies,Christopher Poelker,3.76,76,5,,432,,,2025-07-26T09:00:02.802014
+545,https://www.goodreads.com/book/show/545,Storage Network Performance Analysis,Huseyin Simitci,3.86,14,0,,436,,,2025-07-26T09:00:03.809410
+546,https://www.goodreads.com/book/show/546,Complete Home Storage,Barbara Braasch,3.18,11,0,,192,,,2025-07-26T09:00:05.955743
+547,https://www.goodreads.com/book/show/547,Taunton's Home Storage Idea Book,Joanne Kellar Bouknight,3.68,22,3,,192,,,2025-07-26T09:00:08.183808
+548,https://www.goodreads.com/book/show/548,Storage Area Network Essentials,Richard    Barker,4.20,15,1,,532,,,2025-07-26T09:00:09.747486
+549,https://www.goodreads.com/book/show/549,Perfect Order: Simple Storage Solutions,Elizabeth Hilliard,3.60,5,0,,160,,,2025-07-26T09:00:11.998717
+550,https://www.goodreads.com/book/show/550,Country Living Stylish Storage: Simple Ways to Contain Your Clutter,Paige Gilchrist,3.00,1,0,,144,,,2025-07-26T09:00:13.432220
+551,https://www.goodreads.com/book/show/551,Simple Handmade Storage: 23 Step-By-Step Weekend Projects,Kate Haxell,3.50,8,1,,128,,,2025-07-26T09:00:14.871206
+552,https://www.goodreads.com/book/show/552,Simple Storage Solutions,Elizabeth Hilliard,0.00,0,0,,160,,,2025-07-26T09:00:16.404418
+553,https://www.goodreads.com/book/show/553,Storage (Chic Simple),Jennifer Lisle,3.38,8,0,,103,,,2025-07-26T09:00:18.117594
+554,https://www.goodreads.com/book/show/554,Simple Handmade Storage,Philip Haxell,3.67,3,0,,128,,,2025-07-26T09:00:19.082328
+555,https://www.goodreads.com/book/show/555,"The Modern Gentleman: A Guide to Essential Manners, Savvy & Vice",Phineas Mollod,3.80,403,43,,352,,,2025-07-26T09:00:22.011117
+556,https://www.goodreads.com/book/show/556,The Chap Manifesto: Revolutionary Etiquette for the Modern Gentleman,Gustav Temple,3.96,92,8,,144,,,2025-07-26T09:00:23.506976
+557,https://www.goodreads.com/book/show/557,The Compleat Gentleman: The Modern Man's Guide to Chivalry,Brad Miner,3.67,285,34,,264,,,2025-07-26T09:00:25.871966
+558,https://www.goodreads.com/book/show/558,The Last Gentleman,Walker Percy,3.81,"2,651",209,,442,,,2025-07-26T09:00:27.957413
+559,https://www.goodreads.com/book/show/559,The Compleat Gentleman: The Modern Man's Guide to Chivalry,Brad Miner,3.67,285,34,,Cards,,,2025-07-26T09:00:30.051886
+560,https://www.goodreads.com/book/show/560,The Compleat Gentleman: The Modern Man's Guide to Chivalry,Brad Miner,3.67,285,34,,Audio,,,2025-07-26T09:00:31.875520
+561,https://www.goodreads.com/book/show/561,The Word of a Gentleman: Meditations for Modern Man,Richard C. Halverson,3.00,1,0,,208,,,2025-07-26T09:00:32.384478
+562,https://www.goodreads.com/book/show/562,The Colored Gentleman: A Product of Modern Civilization,Dennis Imbert,0.00,0,0,,86,,,2025-07-26T09:00:35.005760
+563,https://www.goodreads.com/book/show/563,CSS Mastery: Advanced Web Standards Solutions,Andy Budd,4.09,"1,113",46,,280,,,2025-07-26T09:00:36.699586
+564,https://www.goodreads.com/book/show/564,Head First Html With CSS & XHTML,Elisabeth Robson,4.17,"1,375",141,,702,,,2025-07-26T09:00:38.936787
+565,https://www.goodreads.com/book/show/565,The Zen of CSS Design: Visual Enlightenment for the Web,Dave Shea,4.00,871,33,,296,,,2025-07-26T09:00:41.751904
+566,https://www.goodreads.com/book/show/566,Stylin' With CSS: A Designer's Guide,Charles Wyke-Smith,3.74,171,16,,275,,,2025-07-26T09:00:42.935572
+567,https://www.goodreads.com/book/show/567,CSS Pocket Reference,Eric A. Meyer,3.97,436,16,,138,,,2025-07-26T09:00:44.993011
+568,https://www.goodreads.com/book/show/568,"The CSS Anthology: 101 Essential Tips, Tricks & Hacks",Rachel Andrew,3.93,228,19,,376,,,2025-07-26T09:00:46.615728
+569,https://www.goodreads.com/book/show/569,HTML Utopia: Designing Without Tables Using CSS,Rachel Andrew,3.55,55,7,,520,,,2025-07-26T09:00:47.444654
+570,https://www.goodreads.com/book/show/570,"HTML, XHTML & CSS",Elizabeth Castro,3.81,593,39,,456,,,2025-07-26T09:00:50.407646
+571,https://www.goodreads.com/book/show/571,Eric Meyer on CSS: Mastering the Language of Web Design,Eric A. Meyer,4.15,311,17,,350,,,2025-07-26T09:00:51.975026
+572,https://www.goodreads.com/book/show/572,"1,000 Places to See in the USA and Canada Before You Die",Patricia Schultz,4.05,"2,702",108,,1183,,,2025-07-26T09:00:54.222308
+573,https://www.goodreads.com/book/show/573,Clotted Cream,Carolyn Martin,0.00,0,0,,32,,,2025-07-26T09:00:54.884353
+574,https://www.goodreads.com/book/show/574,1000 Cornish Place Names Explained,Julyan Holmes,3.00,1,0,,40,,,2025-07-26T09:00:57.127313
+575,https://www.goodreads.com/book/show/575,Michelin Charming Places to Stay 2003: 1000 Hotels & Guesthouses in France for Less than 80 €,Guides Touristiques Michelin,3.17,6,0,,584,,,2025-07-26T09:00:58.659547
+576,https://www.goodreads.com/book/show/576,1000 Record Covers,Michael Ochs,3.90,684,69,,575,,,2025-07-26T09:01:01.097114
+578,https://www.goodreads.com/book/show/578,Record Covers,Paul Huf,0.00,0,0,,120,,,2025-07-26T09:01:04.837401
+579,https://www.goodreads.com/book/show/579,All-Time Top 1000 Albums,Colin Larkin,3.72,39,1,,320,,,2025-07-26T09:01:06.272825
+580,https://www.goodreads.com/book/show/580,All Time Top 1000 Albums,Colin Larkin,4.00,6,1,,384,,,2025-07-26T09:01:07.846157
+581,https://www.goodreads.com/book/show/581,100 Albums That Changed Music and 500 Songs You Need to Hear,Sean Egan,3.66,38,7,,319,,,2025-07-26T09:01:09.438768
+582,https://www.goodreads.com/book/show/582,1000 Families: The Family Album of Planet Earth,Uwe Ommer,3.95,22,2,,576,,,2025-07-26T09:01:10.882182
+583,https://www.goodreads.com/book/show/583,"1000 questions, 1000 réponses",Alain Grée,4.00,1,0,,93,,,2025-07-26T09:01:12.515959
+584,https://www.goodreads.com/book/show/584,Words of Life,Charles L. Wallis,5.00,3,1,,248,,,2025-07-26T09:01:13.850666
+585,https://www.goodreads.com/book/show/585,The Art of Rock: Posters from Presley to Punk,Paul Grushkin,4.41,148,10,,348,,,2025-07-26T09:01:15.544709
+586,https://www.goodreads.com/book/show/586,Art of Modern Rock: The Poster Explosion,Paul Grushkin,4.12,"1,292",28,,492,,,2025-07-26T09:01:17.437468
+587,https://www.goodreads.com/book/show/587,"Ambiguous Images, Gender and Rock Art",Kelley Hays-Gilpin,3.80,15,2,,272,,,2025-07-26T09:01:18.706290
+588,https://www.goodreads.com/book/show/588,Roadside Guide to Indian Ruins & Rock Art of the Southwest,Gordon Sullivan,4.08,12,0,,240,,,2025-07-26T09:01:20.224144
+589,https://www.goodreads.com/book/show/589,A Field Guide to Rock Art Symbols of the Greater Southwest,Alex Patterson,4.16,82,7,,256,,,2025-07-26T09:01:22.059582
+590,https://www.goodreads.com/book/show/590,Guide to Rock Art of the Utah Region: Sites With Public Access,Dennis Slifer,4.14,14,1,,245,,,2025-07-26T09:01:23.476437
+591,https://www.goodreads.com/book/show/591,The Rock Art of Texas Indians,William W. Newcomb,4.10,10,0,,253,,,2025-07-26T09:01:24.401147
+592,https://www.goodreads.com/book/show/592,Rock Art Savvy: The Responsible Visitor's Guide to Public Sites of the Southwest,Ronald D. Sanders,3.00,2,0,,240,,,2025-07-26T09:01:26.647289
+593,https://www.goodreads.com/book/show/593,The Archaeology of Rock-Art,Christopher Chippindale,4.20,15,1,,392,,,2025-07-26T09:01:28.287578
+594,https://www.goodreads.com/book/show/594,African Rock Art,David Coulson,4.00,9,2,,256,,,2025-07-26T09:01:29.594240
+595,https://www.goodreads.com/book/show/595,Flash to the Core,Joshua Davis,4.15,33,3,,280,,,2025-07-26T09:01:31.162418
+597,https://www.goodreads.com/book/show/597,Killing Yourself to Live: 85% of a True Story,Chuck Klosterman,3.85,"28,392","1,343",,245,,,2025-07-26T09:01:35.292456
+598,https://www.goodreads.com/book/show/598,Killing Yourself to Live: 85% of a True Story,Chuck Klosterman,3.85,"28,392","1,343",,Hardcover,,,2025-07-26T09:01:36.789013
+599,https://www.goodreads.com/book/show/599,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",Chuck Klosterman,3.74,"72,254","3,919",,272,,,2025-07-26T09:01:38.129762
+600,https://www.goodreads.com/book/show/600,"Sex, Drugs and DNA: Science's Taboos Confronted",Michael  Stebbins,3.69,143,20,,350,,,2025-07-26T09:01:40.133260
+601,https://www.goodreads.com/book/show/601,"Sex, Drugs & Economics: An Unconventional Introduction to Economics",Diane Coyle,3.51,130,11,,280,,,2025-07-26T09:01:41.711790
+602,https://www.goodreads.com/book/show/602,"Sex, Drugs, Rock and Roll",Eric Bogosian,3.80,352,23,,136,,,2025-07-26T09:01:43.522476
+603,https://www.goodreads.com/book/show/603,"Sex, Drugs, Gambling & Chocolate: A Workbook for Overcoming Addictions",A. Thomas Horvath,4.03,35,3,,240,,,2025-07-26T09:01:44.883814
+604,https://www.goodreads.com/book/show/604,"Reefer Madness: Sex, Drugs, and Cheap Labor in the American Black Market",Eric Schlosser,3.78,"6,367",442,,310,,,2025-07-26T09:01:47.081016
+605,https://www.goodreads.com/book/show/605,"Life and Def: Sex, Drugs, Money, + God",Russell Simmons,3.78,426,22,,288,,,2025-07-26T09:01:48.163129
+606,https://www.goodreads.com/book/show/606,The Vice Guide to Sex and Drugs and Rock and Roll,Suroosh Alvi,4.04,600,41,,362,,,2025-07-26T09:01:50.517619
+607,https://www.goodreads.com/book/show/607,Corporate Vices: What's Gone Wrong with Business?,Charles Cohen,2.25,4,0,,256,,,2025-07-26T09:01:51.131620
+608,https://www.goodreads.com/book/show/608,Grand Theft Auto: Vice City Official Strategy Guide,Tim Bogenn,4.20,60,1,,176,,,2025-07-26T09:01:58.294286
+609,https://www.goodreads.com/book/show/609,Grand Theft Auto: Vice City Official Strategy Guide for PC,Tim Bogenn,4.20,60,1,,192,,,2025-07-26T09:01:59.642310
+610,https://www.goodreads.com/book/show/610,Grand Theft Auto: Vice City Stories Official Strategy Guide for PlayStation Portable,Brady Games,4.53,17,0,,240,,,2025-07-26T09:02:05.392561
+611,https://www.goodreads.com/book/show/611,The Faking of the Vice-President: A Guide to Becoming a Superfluous Leader,Rich Mintzer,0.00,0,0,,96,,,2025-07-26T09:02:08.736821
+612,https://www.goodreads.com/book/show/612,"An ABC of Vice: An Insatiable Women's Guide, Alphabetized",Nicole Hollander,4.36,11,3,,136,,,2025-07-26T09:02:10.866024
+613,https://www.goodreads.com/book/show/613,On Moral Character: A Practical Guide to Aristotle's Virtues and Vices,Jody Palmour,5.00,2,1,,350,,,2025-07-26T09:02:12.325723
+614,https://www.goodreads.com/book/show/614,Decadent Health: A Survival Guide for Elegant People with Vice,M.D. Baer,4.67,3,0,,152,,,2025-07-26T09:02:13.521215
+615,https://www.goodreads.com/book/show/615,The Vice-Busting Diet: A 12-Week Plan to Break Your Worst Food Habits and Change Your Life Forever,Julia Griggs Havey,3.29,31,2,,240,,,2025-07-26T09:02:15.697970
+616,https://www.goodreads.com/book/show/616,Vice & Virtue in Everyday Life: Introductory Readings in Ethics,Christina Hoff Sommers,3.83,116,11,,594,,,2025-07-26T09:02:17.557514
+617,https://www.goodreads.com/book/show/617,Vice Cream: Over 70 Sinfully Delicious Dairy-Free Delights,Jeff Rogers,3.81,102,10,,112,,,2025-07-26T09:02:19.264071
+618,https://www.goodreads.com/book/show/618,Dos and Don'ts: 10 Years of VICE Magazine's Street Fashion Critiques,Vice Magazine,4.17,636,64,,272,,,2025-07-26T09:02:20.633827
+619,https://www.goodreads.com/book/show/619,Vice,Jane Feather,3.53,614,38,,419,,,2025-07-26T09:02:22.696081
+620,https://www.goodreads.com/book/show/620,Small Vices,Robert B. Parker,4.10,"6,772",329,,338,,,2025-07-26T09:02:24.792028
+621,https://www.goodreads.com/book/show/621,The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich,David Bach,3.94,"20,067","1,145",,272,,,2025-07-26T09:02:26.886395
+622,https://www.goodreads.com/book/show/622,The Automatic Millionaire Homeowner: A Powerful Plan to Finish Rich in Real Estate,David Bach,3.79,"1,794",134,,272,,,2025-07-26T09:02:29.001625
+623,https://www.goodreads.com/book/show/623,The Automatic Millionaire Workbook: A Personalized Plan to Live and Finish Rich. . . Automatically,David Bach,3.78,120,7,,240,,,2025-07-26T09:02:31.044596
+624,https://www.goodreads.com/book/show/624,The Automatic Millionaire Homeowner: A Powerful Plan to Finish Rich in Real Estate,David Bach,3.79,"1,794",134,,254,,,2025-07-26T09:02:33.228066
+625,https://www.goodreads.com/book/show/625,The Automatic Millionaire: A Powerful One Step Plan to Live and Finish Rich,David Bach,3.94,"20,067","1,145",,,,,2025-07-26T09:02:35.394641
+626,https://www.goodreads.com/book/show/626,The Automatic Millionaire Home Study Course,David Bach,4.40,10,1,,Audio,,,2025-07-26T09:02:36.686423
+627,https://www.goodreads.com/book/show/627,The Automatic Millionaire Workbook: A Personalized Plan to Live and Finish Rich. . . Automatically,David Bach,3.78,120,7,,240,,,2025-07-26T09:02:38.434543
+628,https://www.goodreads.com/book/show/628,The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich,david-bach,3.94,"20,067","1,145",,215,,,2025-07-26T09:02:40.515628
+629,https://www.goodreads.com/book/show/629,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,3.78,"241,397","11,542",,540,,,2025-07-26T09:02:42.092299
+630,https://www.goodreads.com/book/show/630,The Mouse and the Motorcycle,Beverly Cleary,3.97,"88,560","2,851",,160,,,2025-07-26T09:02:44.209789
+631,https://www.goodreads.com/book/show/631,The Essential Guide to Motorcycle Maintenance: Tips & Techniques to Keep Your Motorcycle in Top Condition,Mark Zimmerman,4.02,166,7,,256,,,2025-07-26T09:02:45.733280
+632,https://www.goodreads.com/book/show/632,The Motorcycle Diaries: Notes on a Latin American Journey,Ernesto Che Guevara,3.80,"44,081","2,844",,175,,,2025-07-26T09:02:48.018589
+633,https://www.goodreads.com/book/show/633,The Complete Idiot's Guide to Motorcycles,Darwin Holmstrom,3.65,150,12,,448,,,2025-07-26T09:02:49.579752
+634,https://www.goodreads.com/book/show/634,Motorcycle Owner's Manual,Hugo  Wilson,3.78,63,3,,112,,,2025-07-26T09:02:50.825776
+635,https://www.goodreads.com/book/show/635,Motorcycle Journeys Through the Southwest,Martin C. Berke,3.75,4,0,,432,,,2025-07-26T09:02:53.175226
+636,https://www.goodreads.com/book/show/636,How to Paint Your Motorcycle,JoAnn Bortles,4.00,4,0,,128,,,2025-07-26T09:02:54.099274
+637,https://www.goodreads.com/book/show/637,How to Restore Your Motorcycle,Mark Zimmerman,3.61,31,2,,224,,,2025-07-26T09:02:56.287464
+638,https://www.goodreads.com/book/show/638,Motorcycle Journeys Through the Appalachians,Dale Coyner,3.79,24,0,,304,,,2025-07-26T09:02:57.578833
+639,https://www.goodreads.com/book/show/639,Once Upon a Cool Motorcycle Dude,Kevin O'Malley,4.07,"1,928",302,,32,,,2025-07-26T09:03:00.090242
+640,https://www.goodreads.com/book/show/640,"Life Is a Road, the Soul Is a Motorcycle",Daniel B. Meyer,3.55,22,3,,208,,,2025-07-26T09:03:01.473920
+641,https://www.goodreads.com/book/show/641,Motorcycle Touring: Everything You Need to Know,Gregory W. Frazier,3.42,26,2,,160,,,2025-07-26T09:03:02.395824
+642,https://www.goodreads.com/book/show/642,Guidebook to Zen and the Art of Motorcycle Maintenance,Ronald L. DiSanto,3.75,314,15,,408,,,2025-07-26T09:03:04.662649
+643,https://www.goodreads.com/book/show/643,Motorcycle Basics Techbook,Haynes Publishing,4.09,54,1,,222,,,2025-07-26T09:03:06.092099
+644,https://www.goodreads.com/book/show/644,"How to Ride a Motorcycle: A Rider's Guide to Strategy, Safety And Skill Development",Pat Hahn,3.53,15,1,,144,,,2025-07-26T09:03:07.695941
+645,https://www.goodreads.com/book/show/645,Motorcycle Camping Made Easy,Bob Woofter,3.71,45,4,,128,,,2025-07-26T09:03:09.026002
+646,https://www.goodreads.com/book/show/646,Motorcycle Journeys Through New England,Martin C. Berke,4.00,9,0,,256,,,2025-07-26T09:03:10.591115
+647,https://www.goodreads.com/book/show/647,No Logo,Naomi Klein,3.89,"32,428","1,338",,528,,,2025-07-26T09:03:12.977701
+648,https://www.goodreads.com/book/show/648,Dos Logos,Robert Klanten,3.98,118,2,,443,,,2025-07-26T09:03:14.277554
+649,https://www.goodreads.com/book/show/649,Logo Design Workbook: A Hands-On Guide to Creating Logos,Sean Adams,3.89,321,9,,240,,,2025-07-26T09:03:16.023805
+650,https://www.goodreads.com/book/show/650,"LOGO Lounge: 2,000 International Identities by Leading Designers",Catharine M. Fishel,3.92,122,3,,192,,,2025-07-26T09:03:17.308664
+651,https://www.goodreads.com/book/show/651,Letterhead & Logo Design 9,Mine,4.19,64,3,,239,,,2025-07-26T09:03:19.588506
+652,https://www.goodreads.com/book/show/652,Los Logos,Nicholas Bourquin,3.96,105,1,,416,,,2025-07-26T09:03:21.038440
+653,https://www.goodreads.com/book/show/653,The Big Book of Logos 3,David E. Carter,4.25,12,0,,384,,,2025-07-26T09:03:22.342597
+654,https://www.goodreads.com/book/show/654,Great Short Works of Leo Tolstoy,Leo Tolstoy,4.33,"2,674",109,,720,,,2025-07-26T09:03:24.262874
+655,https://www.goodreads.com/book/show/655,The Death of Ivan Ilych and Other Stories,Leo Tolstoy,4.12,"16,578","1,320",,304,,,2025-07-26T09:03:26.433025
+656,https://www.goodreads.com/book/show/656,War and Peace,Leo Tolstoy,4.17,"356,850","19,701",,1392,,,2025-07-26T09:03:29.364297
+657,https://www.goodreads.com/book/show/657,Tolstoy Lied: A Love Story,Rachel Kadish,3.53,829,143,,325,,,2025-07-26T09:03:31.298724
+658,https://www.goodreads.com/book/show/658,The Kingdom of God Is Within You,Leo Tolstoy,4.12,"4,724",465,,352,,,2025-07-26T09:03:33.900933
+659,https://www.goodreads.com/book/show/659,Walk in the Light and Twenty-Three Tales,Leo Tolstoy,4.10,458,51,,351,,,2025-07-26T09:03:36.529794
+660,https://www.goodreads.com/book/show/660,The Poet of Tolstoy Park,Sonny Brewer,3.94,940,173,,272,,,2025-07-26T09:03:38.809460
+661,https://www.goodreads.com/book/show/661,Hunters Of Dune,Brian Herbert,3.70,"19,216",809,,528,,,2025-07-26T09:03:41.344150
+662,https://www.goodreads.com/book/show/662,Atlas Shrugged,Ayn Rand,3.69,"402,722","21,163",,1168,,,2025-07-26T09:03:43.693352
+663,https://www.goodreads.com/book/show/663,For the New Intellectual: The Philosophy of Ayn Rand,Ayn Rand,3.70,"3,426",182,,224,,,2025-07-26T09:03:46.453955
+664,https://www.goodreads.com/book/show/664,The Fountainhead,Ayn Rand,3.89,"333,785","15,179",,752,,,2025-07-26T09:03:48.915475
+665,https://www.goodreads.com/book/show/665,The Virtue of Selfishness: A New Concept of Egoism,Ayn Rand,3.55,"14,854",834,,173,,,2025-07-26T09:03:50.869638
+666,https://www.goodreads.com/book/show/666,Ayn Rand Answers: The Best of Her Q & A,Robert Mayhew,4.13,646,18,,256,,,2025-07-26T09:03:53.144066
+667,https://www.goodreads.com/book/show/667,Anthem,Ayn Rand,3.61,"164,190","12,296",,105,,,2025-07-26T09:03:55.863162
+668,https://www.goodreads.com/book/show/668,We the Living,Ayn Rand,3.96,"30,433","1,709",,464,,,2025-07-26T09:03:58.908392
+669,https://www.goodreads.com/book/show/669,Capitalism: The Unknown Ideal,Ayn Rand,3.89,"4,375",227,,340,,,2025-07-26T09:04:01.103674
+670,https://www.goodreads.com/book/show/670,Letters of Ayn Rand,Ayn Rand,3.97,507,14,,681,,,2025-07-26T09:04:02.625573
+671,https://www.goodreads.com/book/show/671,Philosophy Who Needs It,Ayn Rand,3.90,"3,223",160,,276,,,2025-07-26T09:04:04.925960
+672,https://www.goodreads.com/book/show/672,Sailing for Dummies,J.J. Isler,3.99,394,20,,416,,,2025-07-26T09:04:06.829380
+673,https://www.goodreads.com/book/show/673,The Complete Sailor: Learning the Art of Sailing,David Seidman,4.36,393,27,,208,,,2025-07-26T09:04:08.776869
+674,https://www.goodreads.com/book/show/674,Sailing Fundamentals,Gary Jobson,3.94,282,15,,220,,,2025-07-26T09:04:10.640255
+675,https://www.goodreads.com/book/show/675,Sailing from Byzantium: How a Lost Empire Shaped the World,Colin  Wells,3.86,908,127,,335,,,2025-07-26T09:04:12.800303
+676,https://www.goodreads.com/book/show/676,Sailing Alone Around the Room: New and Selected Poems,Billy Collins,4.22,"14,191",874,,172,,,2025-07-26T09:04:14.418801
+677,https://www.goodreads.com/book/show/677,Learning to Sail: The Annapolis Sailing School Guide for All Ages,Diane Goodman,4.12,50,3,,104,,,2025-07-26T09:04:15.716805
+678,https://www.goodreads.com/book/show/678,The Greatest Sailing Stories Ever Told: Twenty-Seven Unforgettable Stories,Christopher Caswell,3.62,90,9,,286,,,2025-07-26T09:04:17.084708
+679,https://www.goodreads.com/book/show/679,"Sailing Smart: Winning Techniques, Tactics, and Strategies",Buddy Melges,4.26,46,0,,208,,,2025-07-26T09:04:18.766044
+680,https://www.goodreads.com/book/show/680,The Handbook of Sailing: A Complete Guide to All Sailing Techniques and Procedures for the Beginner and the Experienced Sailor,Bob Bond,4.14,100,13,,352,,,2025-07-26T09:04:20.691286
+681,https://www.goodreads.com/book/show/681,"Natural Cures ""They"" Don't Want You to Know about",Kevin Trudeau,3.14,"1,977",324,,572,,,2025-07-26T09:04:22.357429
+682,https://www.goodreads.com/book/show/682,More Natural ''Cures'' Revealed: Previously Censored Brand Name Products That Cure Disease,Kevin Trudeau,3.40,415,56,,350,,,2025-07-26T09:04:24.438243
+683,https://www.goodreads.com/book/show/683,Natural Capitalism: Creating the Next Industrial Revolution,Paul Hawken,3.99,"1,873",150,,360,,,2025-07-26T09:04:26.490292
+684,https://www.goodreads.com/book/show/684,Biology: A Guide to the Natural World,David Krogh,3.29,87,4,,777,,,2025-07-26T09:04:27.877268
+685,https://www.goodreads.com/book/show/685,The Natural,Bernard Malamud,3.61,"12,219","1,051",,231,,,2025-07-26T09:04:29.979916
+686,https://www.goodreads.com/book/show/686,The Natural Speaker,Randy Fujishin,3.58,107,15,,192,,,2025-07-26T09:04:31.276276
+687,https://www.goodreads.com/book/show/687,"Natural Hormone Balance for Women: Look Younger, Feel Stronger, and Live Life with Exuberance",Uzzi Reiss,4.07,179,19,,320,,,2025-07-26T09:04:32.530526
+688,https://www.goodreads.com/book/show/688,Natural Resource Conservation: Management For A Sustainable Future,Daniel D. Chiras,3.41,51,2,,644,,,2025-07-26T09:04:33.902603
+689,https://www.goodreads.com/book/show/689,Natural Disasters,Patrick L. Abbott,3.72,99,6,,416,,,2025-07-26T09:04:36.424097
+690,https://www.goodreads.com/book/show/690,The End of Print: The Graphic Design of David Carson,Lewis Blackwell,4.07,756,19,,160,,,2025-07-26T09:04:40.407091
+691,https://www.goodreads.com/book/show/691,Trek,David  Carson,4.23,66,3,,456,,,2025-07-26T09:04:41.725832
+692,https://www.goodreads.com/book/show/692,David Carson: 2ndsight,Lewis Blackwell,4.17,98,4,,176,,,2025-07-26T09:04:44.457099
+693,https://www.goodreads.com/book/show/693,The Book of Probes,Marshall McLuhan,4.10,69,6,,576,,,2025-07-26T09:04:46.132706
+694,https://www.goodreads.com/book/show/694,Fotografiks - David Carson,David  Carson,4.23,66,0,,192,,,2025-07-26T09:04:47.356436
+695,https://www.goodreads.com/book/show/695,Crossing into Medicine Country: A Journey in Native American Healing,David    Carson,3.78,157,22,,336,,,2025-07-26T09:04:49.938033
+696,https://www.goodreads.com/book/show/696,Rockin' Down the Dial: The Detroit Sound of Radio,David Carson,4.14,7,1,,288,,,2025-07-26T09:04:51.355068
+697,https://www.goodreads.com/book/show/697,Ortlos: Architecture of the Networks,Thom Mayne,4.33,3,0,,204,,,2025-07-26T09:04:52.987213
+698,https://www.goodreads.com/book/show/698,Digging to America,Anne Tyler,3.59,"23,208","2,579",,277,,,2025-07-26T09:04:55.558614
+699,https://www.goodreads.com/book/show/699,"America: A Concise History, Volume 2: Since 1865",James A. Henretta,3.86,106,5,,640,,,2025-07-26T09:04:56.908487
+700,https://www.goodreads.com/book/show/700,Rereading America: Cultural Contexts for Critical Thinking and Writing,Gary Colombo,3.82,377,25,,826,,,2025-07-26T09:04:58.625658
+701,https://www.goodreads.com/book/show/701,Government in America: Brief Version,George C. Edwards III,3.26,136,18,,373,,,2025-07-26T09:04:59.765425
+702,https://www.goodreads.com/book/show/702,Modern Latin America,Thomas E. Skidmore,3.62,413,29,,512,,,2025-07-26T09:05:02.055133
+703,https://www.goodreads.com/book/show/703,The Plot Against America,Philip Roth,3.81,"67,273","5,921",,391,,,2025-07-26T09:05:05.100123
+704,https://www.goodreads.com/book/show/704,The Covenant with Black America,David Satcher,3.80,354,20,,254,,,2025-07-26T09:05:07.268522
+705,https://www.goodreads.com/book/show/705,Democracy in America,Alexis de Tocqueville,4.05,"26,623","1,146",,703,,,2025-07-26T09:05:09.403477
+706,https://www.goodreads.com/book/show/706,America (The Book): A Citizen's Guide to Democracy Inaction,Jon   Stewart,4.01,"96,829","1,481",,228,,,2025-07-26T09:05:11.756205
+707,https://www.goodreads.com/book/show/707,Naked Pictures of Famous People,Jon   Stewart,3.58,"9,997",498,,164,,,2025-07-26T09:05:13.755566
+708,https://www.goodreads.com/book/show/708,Kierkegaard's Relations to Hegel Reconsidered,Jon  Stewart,4.47,15,3,,718,,,2025-07-26T09:05:14.503529
+709,https://www.goodreads.com/book/show/709,Econometrics,Jan Stewart,3.88,8,1,,440,,,2025-07-26T09:05:16.638976
+710,https://www.goodreads.com/book/show/710,"Swiss Graphic Design: The Origins and Growth of an International Style, 1920-1965",Richard Hollis,4.30,102,7,,272,,,2025-07-26T09:05:18.496680
+711,https://www.goodreads.com/book/show/711,Swiss Design 2002: Netzwerke / Réseaux / Networks,Lars Müller,2.00,1,0,,226,,,2025-07-26T09:05:19.816493
+712,https://www.goodreads.com/book/show/712,Benzin: Young Swiss Graphic Design,Thomas Bruggisser,4.13,8,1,,336,,,2025-07-26T09:05:20.841420
+713,https://www.goodreads.com/book/show/713,Swiss Design 2004,Bundesamt für Kultur,0.00,0,0,,215,,,2025-07-26T09:05:22.740534
+714,https://www.goodreads.com/book/show/714,Swiss Design 2003: Désir Design,Schweizerisches Bundesamt für Kultur,0.00,0,0,,222,,,2025-07-26T09:05:24.550377
+715,https://www.goodreads.com/book/show/715,The Art of Structural Design: A Swiss Legacy,David P. Billington,3.80,5,1,,212,,,2025-07-26T09:05:26.033446
+716,https://www.goodreads.com/book/show/716,Swiss Graphic Design,Hendrik Hellige,3.76,21,0,,200,,,2025-07-26T09:05:27.443130
+717,https://www.goodreads.com/book/show/717,Charted Swiss Folk Designs,Elvira Parolini-Ruffini,2.00,1,0,,32,,,2025-07-26T09:05:29.069216
+718,https://www.goodreads.com/book/show/718,Swiss Book: Visual Designs of Swiss Hospitality,T. Ishikawa,4.00,1,0,,247,,,2025-07-26T09:05:29.887902
+719,https://www.goodreads.com/book/show/719,Eidgenössische Förderpreise für Design / Bourses fédérales de design / Swiss Federal Design Grants 2006,Bundesamt für Kultur,0.00,0,0,,162,,,2025-07-26T09:05:31.851781
+720,https://www.goodreads.com/book/show/720,Guitar Chord Encyclopedia: 36 Chords in Each Key,Steve Hall,3.82,17,1,,312,,,2025-07-26T09:05:33.121976
+721,https://www.goodreads.com/book/show/721,Incredible Chord Finder: Easy-to-use guide to Over 1100 Guitar Chords,Various,3.73,15,1,,104,,,2025-07-26T09:05:34.972103
+722,https://www.goodreads.com/book/show/722,Guitar Case Chord Book in Full Color,Music Sales Corporation,4.33,3,0,,48,,,2025-07-26T09:05:36.458770
+723,https://www.goodreads.com/book/show/723,Chord Workbook for Guitar: Volume 1,Bruce E. Arnold,4.40,5,0,,176,,,2025-07-26T09:05:37.530172
+724,https://www.goodreads.com/book/show/724,"Guitar Chord Bible: Over 500 Illustrated Chords for Rock, Blues, Soul, Country, Jazz, and Classical",Phil Capone,4.31,109,7,,256,,,2025-07-26T09:05:39.581485
+725,https://www.goodreads.com/book/show/725,"The Guitar Chord Wheel Book: Over 22,000 Chords, Easy to Use",Hal Leonard Corporation,4.00,10,1,,336,,,2025-07-26T09:05:41.034173
+727,https://www.goodreads.com/book/show/727,Jazz Guitar Standarts: Chord Melody Solos,Ron Berman,3.75,8,1,,144,,,2025-07-26T09:05:43.883966
+728,https://www.goodreads.com/book/show/728,Guitar Chords,Mel Bay,4.48,21,2,,48,,,2025-07-26T09:05:45.369310
+730,https://www.goodreads.com/book/show/730,"Mel Bay's Complete Book of Guitar Chords, Scales and Arpeggios",William Bay,3.85,20,2,,296,,,2025-07-26T09:05:48.389459
+731,https://www.goodreads.com/book/show/731,Guide to Guitar Chord Progressions,Mike Christiansen,0.00,0,0,,56,,,2025-07-26T09:05:50.329332
+732,https://www.goodreads.com/book/show/732,Mel Bay's Deluxe Encyclopedia of Guitar Chords,William Bay,4.55,22,2,,144,,,2025-07-26T09:05:51.663483
+733,https://www.goodreads.com/book/show/733,Jazz Guitar Chord System,Scott Henderson,4.86,7,0,,16,,,2025-07-26T09:05:53.094350
+734,https://www.goodreads.com/book/show/734,Chord Progressions for Guitar: 101 Patterns for All Styles from Folk to Funk!,Tom Kolb,3.93,29,1,,56,,,2025-07-26T09:05:54.840189
+735,https://www.goodreads.com/book/show/735,"The ""First Stage"" Guitar Chord Chart",Chris Lopez,3.27,22,0,,8,,,2025-07-26T09:05:56.376654
+736,https://www.goodreads.com/book/show/736,Jazz Guitar Chord Workout,Corey Christiansen,0.00,0,0,,24,,,2025-07-26T09:05:57.813058
+737,https://www.goodreads.com/book/show/737,"Picture Chord Encyclopedia: Photos & Diagrams for Over 2,600 Guitar Chords!",Hal Leonard Corporation,4.10,40,0,,272,,,2025-07-26T09:05:59.218913
+738,https://www.goodreads.com/book/show/738,Rhythm Guitar Chord System,Mel Bay,4.50,6,0,,48,,,2025-07-26T09:06:00.671652
+740,https://www.goodreads.com/book/show/740,The Beatles: A-I,The Beatles,4.40,10,0,,232,,,2025-07-26T09:06:03.749940
+741,https://www.goodreads.com/book/show/741,The Compact Rock Guitar Chord Reference,Len Vogler,0.00,0,0,,48,,,2025-07-26T09:06:05.198315
+742,https://www.goodreads.com/book/show/742,Jazz Guitar Chord Melodies for Solo Guitar,Dan Towey,3.00,1,0,,64,,,2025-07-26T09:06:06.704745
+743,https://www.goodreads.com/book/show/743,The Guitar 3 Chord Songbook: Play 50 Rock Hits with Only 3 Easy Chords,Various,4.00,11,0,,98,,,2025-07-26T09:06:08.148459
+744,https://www.goodreads.com/book/show/744,The Advanced Guitar Case Chord Book,Askold Buk,3.33,3,0,,68,,,2025-07-26T09:06:09.785920
+746,https://www.goodreads.com/book/show/746,Guitar Chord Guru: The Chord Book - Your Guide for Success!,Karl Aranjo,4.29,14,1,,112,,,2025-07-26T09:06:13.023486
+747,https://www.goodreads.com/book/show/747,Left-Hand Guitar Chord Chart,William Bay,4.20,5,0,,4,,,2025-07-26T09:06:14.304996
+748,https://www.goodreads.com/book/show/748,The Jazz Guitar Chord Bible Complete,Warren Nunes,3.70,10,0,,188,,,2025-07-26T09:06:15.825406
+749,https://www.goodreads.com/book/show/749,Children’s Songs – Guitar Chord Songbook: 80 Classic Kids’ Songs with Lyrics and Chords | Easy Guitar Songbook for Beginners | Hal Leonard Music Book ... and Teachers,Hal Leonard Corporation,4.50,2,0,,152,,,2025-07-26T09:06:17.242008
+750,https://www.goodreads.com/book/show/750,Guitar Chord Songbook: Classic Rock,Hal Leonard Corporation,4.00,4,0,,240,,,2025-07-26T09:06:18.902174
+751,https://www.goodreads.com/book/show/751,Guitar Chords for Beginners,Jim McNamara,0.00,0,0,,48,,,2025-07-26T09:06:20.438224
+752,https://www.goodreads.com/book/show/752,THE GUITAR CHORD DECK LEARN AND MASTER ESSENTIAL GUITAR CHORDS | BEGINNER-FRIENDLY FINGERING GUIDE,Ed Lozano,5.00,3,0,,45,,,2025-07-26T09:06:21.842885
+753,https://www.goodreads.com/book/show/753,Joe Pass Guitar Chords,Joe Pass,4.49,35,2,,24,,,2025-07-26T09:06:22.936609
+754,https://www.goodreads.com/book/show/754,Guitar Picture Chords in Colour,Ed Lozano,5.00,3,0,,56,,,2025-07-26T09:06:24.837210
+755,https://www.goodreads.com/book/show/755,Guitar Case Chord Book,Peter Pickow,4.30,27,0,,50,,,2025-07-26T09:06:25.865436
+756,https://www.goodreads.com/book/show/756,Captain Henry Morgan,Oriental Institute,5.00,1,1,,,,,2025-07-26T09:06:27.995817
+757,https://www.goodreads.com/book/show/757,"Guía para la lectura de ""Cien años de soledad""",María Eulalia Montaner,2.67,6,2,,288,,,2025-07-26T09:06:29.699243
+758,https://www.goodreads.com/book/show/758,魔幻现实主义大师: 加西亚·马尔克斯,陈众议,0.00,0,0,,283,,,2025-07-26T09:06:30.971398
+759,https://www.goodreads.com/book/show/759,Collected Stories,Gabriel García Márquez,4.17,"8,689",381,,352,,,2025-07-26T09:06:33.380183
+760,https://www.goodreads.com/book/show/760,Memories of My Melancholy Whores,Gabriel García Márquez,3.58,"95,016","6,494",,115,,,2025-07-26T09:06:37.070414
+761,https://www.goodreads.com/book/show/761,El otoño del patriarca,Gabriel García Márquez,3.87,"25,851","1,955",,297,,,2025-07-26T09:06:39.800845
+762,https://www.goodreads.com/book/show/762,Crónica de una muerte anunciada,Gabriel García Márquez,3.97,"224,262","14,172",,118,,,2025-07-26T09:06:41.971423
+763,https://www.goodreads.com/book/show/763,Cien años de soledad,Gabriel García Márquez,4.12,"1,069,490","56,003",,496,,,2025-07-26T09:06:45.355301
+764,https://www.goodreads.com/book/show/764,Del amor y otros demonios,Gabriel García Márquez,3.95,"83,874","4,886",,176,,,2025-07-26T09:06:47.937949
+765,https://www.goodreads.com/book/show/765,Living to Tell the Tale,Gabriel García Márquez,4.03,"12,487",980,,533,,,2025-07-26T09:06:50.170063
+766,https://www.goodreads.com/book/show/766,Memoria de mis putas tristes,Gabriel García Márquez,3.58,"95,016","6,494",,109,,,2025-07-26T09:06:52.456043
+767,https://www.goodreads.com/book/show/767,Rumores de mar,Guillermo Cabrera Infante,3.33,3,0,,224,,,2025-07-26T09:06:53.714763
+768,https://www.goodreads.com/book/show/768,Gabriel García Márquez,Dagmar Ploetz,4.28,18,1,,151,,,2025-07-26T09:06:55.251640
+769,https://www.goodreads.com/book/show/769,Gabriel Garcia Marquez,Raymond L. Williams,3.77,13,0,,204,,,2025-07-26T09:06:56.274435
+770,https://www.goodreads.com/book/show/770,The Presence of Hemingway in the Short Fiction of Gabriel Garcia Marquez,Harley D. Oberhelman,3.50,4,0,,50,,,2025-07-26T09:06:57.699582
+771,https://www.goodreads.com/book/show/771,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,4.10,"101,011","2,396",,425,,,2025-07-26T09:07:00.478032
+772,https://www.goodreads.com/book/show/772,Science and Sensibility: The Elegant Logic of the Universe,Keith J. Laidler,3.47,17,1,,233,,,2025-07-26T09:07:01.727677
+773,https://www.goodreads.com/book/show/773,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,4.10,"101,011","2,396",,Paperback,,,2025-07-26T09:07:04.281758
+774,https://www.goodreads.com/book/show/774,Buddhism Pure and Simple,Hsing Yun,4.30,40,1,,140,,,2025-07-26T09:07:05.621865
+775,https://www.goodreads.com/book/show/775,Pure and Simple: The Extraordinary Teachings of a Thai Buddhist Laywoman,Upasika Kee Nanayon,4.23,83,6,,288,,,2025-07-26T09:07:07.337178
+776,https://www.goodreads.com/book/show/776,"Buddhism Plain & Simple: The Practice of Being Aware, Right Now, Every Day",Steve Hagen,4.04,"9,980",648,,165,,,2025-07-26T09:07:09.113208
+777,https://www.goodreads.com/book/show/777,Buddhism Is Not What You Think: Finding Freedom Beyond Beliefs,Steve Hagen,4.08,"1,311",111,,272,,,2025-07-26T09:07:11.769654
+778,https://www.goodreads.com/book/show/778,Buddhism,Steve    Clarke,2.50,2,0,,152,,,2025-07-26T09:07:12.458803
+779,https://www.goodreads.com/book/show/779,"UnHypnosis: How to Wake Up, Start Over, and Create the Life You're Meant to Live",Steve Taubman,4.10,10,0,,200,,,2025-07-26T09:07:14.604403
+780,https://www.goodreads.com/book/show/780,The Path to Buddha: A Tibetan Pilgrimage,Steve McCurry,4.25,44,5,,144,,,2025-07-26T09:07:15.569452
+781,https://www.goodreads.com/book/show/781,The Shaolin Way: 10 Modern Secrets of Survival from a Shaolin Grandmaster,Steve DeMasco,3.17,63,12,,272,,,2025-07-26T09:07:18.304230
+782,https://www.goodreads.com/book/show/782,"Meditation, Compassion & Loving Kindness: An Approach to Vipassana Practice",Steve Weissman,3.80,5,1,,212,,,2025-07-26T09:07:18.900054
+783,https://www.goodreads.com/book/show/783,Now Zen,Charlotte Joko Beck,4.12,43,2,,96,,,2025-07-26T09:07:21.568929
+786,https://www.goodreads.com/book/show/786,The Rough Guide to London,Rob Humphreys,4.05,134,17,,656,,,2025-07-26T09:07:30.090457
+787,https://www.goodreads.com/book/show/787,The Mini Rough Guide to London,Rob Humphreys,3.75,8,0,,400,,,2025-07-26T09:07:31.824521
+788,https://www.goodreads.com/book/show/788,The Rough Guide to London Restaurants 2004,Charles Campion,4.05,134,17,,544,,,2025-07-26T09:07:34.361743
+789,https://www.goodreads.com/book/show/789,The Rough Guide to Walks in London & Southeast England,Helena Smith,4.21,14,0,,288,,,2025-07-26T09:07:36.624821
+790,https://www.goodreads.com/book/show/790,Rough Guide Directions: London,Rob Humphreys,3.86,7,3,,224,,,2025-07-26T09:07:38.162998
+791,https://www.goodreads.com/book/show/791,Arsenal,Damian Hall,4.00,1,0,,128,,,2025-07-26T09:07:39.140437
+792,https://www.goodreads.com/book/show/792,London: City Guide,Lonely Planet,4.05,912,65,,466,,,2025-07-26T09:07:42.123933
+793,https://www.goodreads.com/book/show/793,Best of London,Lonely Planet,3.94,49,1,,128,,,2025-07-26T09:07:43.291305
+794,https://www.goodreads.com/book/show/794,London,Lonely Planet,4.05,912,65,,400,,,2025-07-26T09:07:46.399036
+796,https://www.goodreads.com/book/show/796,Lonely Planet Londres,Lonely Planet,4.05,912,65,,Paperback,,,2025-07-26T09:07:50.252549
+797,https://www.goodreads.com/book/show/797,Lonely Planet Londres,Lonely Planet,4.05,912,65,,480,,,2025-07-26T09:07:52.621755
+798,https://www.goodreads.com/book/show/798,Out to Eat London 2001,Lonely Planet,3.00,1,0,,320,,,2025-07-26T09:07:54.236111
+799,https://www.goodreads.com/book/show/799,Out to Eat London 2002,Lonely Planet,3.00,1,0,,295,,,2025-07-26T09:07:56.281927
+800,https://www.goodreads.com/book/show/800,Lonely Planet Londres,Lonely Planet,4.05,912,65,,Paperback,,,2025-07-26T09:07:58.377834
+802,https://www.goodreads.com/book/show/802,Londres,Lonely Planet,4.05,912,65,,400,,,2025-07-26T09:08:02.046978
+803,https://www.goodreads.com/book/show/803,Lo mejor de Londres,Lonely Planet,3.94,49,1,,128,,,2025-07-26T09:08:03.141512
+804,https://www.goodreads.com/book/show/804,Lonely Planet: Londra,Steve Fallon,4.05,912,65,,Paperback,,,2025-07-26T09:08:05.593550
+805,https://www.goodreads.com/book/show/805,"Thai Massage Manual: Natural Therapy for Flexibility, Relaxation, and Energy Balance",Maria Mercati,4.19,27,4,,144,,,2025-07-26T09:08:08.407951
+806,https://www.goodreads.com/book/show/806,Encyclopedia of Thai Massage: A Complete Guide to Traditional Thai Massage Therapy and Acupressure,C. Pierce Salguero,4.24,83,4,,250,,,2025-07-26T09:08:09.958491
+807,https://www.goodreads.com/book/show/807,Thai Massage: Sacred Body Work,Ananda  Apfelbaum,4.29,35,3,,288,,,2025-07-26T09:08:12.442776
+808,https://www.goodreads.com/book/show/808,The Thai Massage Workbook,Kay Rynerson,4.00,3,0,,70,,,2025-07-26T09:08:13.894184
+809,https://www.goodreads.com/book/show/809,The Art of Traditional Thai Massage,Asokananda,4.24,17,1,,121,,,2025-07-26T09:08:15.775131
+810,https://www.goodreads.com/book/show/810,Thai Yoga Massage: A Dynamic Therapy for Physical Well-Being and Spiritual Energy,Kam Thye Chow,4.02,43,1,,160,,,2025-07-26T09:08:16.868957
+811,https://www.goodreads.com/book/show/811,Thai Massage,Nicky  Smith,3.63,8,0,,128,,,2025-07-26T09:08:18.918405
+812,https://www.goodreads.com/book/show/812,Nuad Thai: Traditional Thai Massage,Max Chia,3.67,3,0,,112,,,2025-07-26T09:08:19.990656
+813,https://www.goodreads.com/book/show/813,Thai Massage: A Traditional Medical Technique,Richard  Gold,4.07,14,1,,240,,,2025-07-26T09:08:21.985760
+814,https://www.goodreads.com/book/show/814,Scents,Janine King,4.43,7,5,,96,,,2025-07-26T09:08:23.629311
+815,https://www.goodreads.com/book/show/815,"3 Nights in August: Strategy, Heartbreak, and Joy Inside the Mind of a Manager",Buzz Bissinger,3.91,"8,468",360,,287,,,2025-07-26T09:08:26.186913
+816,https://www.goodreads.com/book/show/816,Cryptonomicon,Neal Stephenson,4.23,"115,685","6,263",,1152,,,2025-07-26T09:08:28.551610
+817,https://www.goodreads.com/book/show/817,Le Code Enigma,Neal Stephenson,4.00,930,40,,546,,,2025-07-26T09:08:30.775572
+818,https://www.goodreads.com/book/show/818,Cryptonomicon,Neal Stephenson,4.23,"115,685","6,263",,1184,,,2025-07-26T09:08:34.094023
+819,https://www.goodreads.com/book/show/819,Cryptonomicon,Neal Stephenson,4.23,"115,685","6,263",,918,,,2025-07-26T09:08:36.502604
+820,https://www.goodreads.com/book/show/820,Golgotha,Neal Stephenson,4.12,591,24,,420,,,2025-07-26T09:08:38.436105
+821,https://www.goodreads.com/book/show/821,Le Réseau Kinakuta,Neal Stephenson,4.11,591,28,,420,,,2025-07-26T09:08:40.675632
+822,https://www.goodreads.com/book/show/822,The Confusion,Neal Stephenson,4.27,"25,018",822,,815,,,2025-07-26T09:08:43.059348
+823,https://www.goodreads.com/book/show/823,Quicksilver,Neal Stephenson,3.93,"46,122","2,503",,927,,,2025-07-26T09:08:45.364597
+824,https://www.goodreads.com/book/show/824,The Cobweb,Neal Stephenson,3.70,"3,511",194,,448,,,2025-07-26T09:08:47.817153
+825,https://www.goodreads.com/book/show/825,Zodiac,Neal Stephenson,3.74,"20,238",901,,308,,,2025-07-26T09:08:51.092901
+826,https://www.goodreads.com/book/show/826,The Big U,Neal Stephenson,3.27,"5,359",276,,308,,,2025-07-26T09:08:53.777688
+827,https://www.goodreads.com/book/show/827,"The Diamond Age: Or, a Young Lady's Illustrated Primer",Neal Stephenson,4.16,"92,352","4,113",,499,,,2025-07-26T09:08:56.118530
+828,https://www.goodreads.com/book/show/828,Interface,Neal Stephenson,3.74,"6,327",373,,618,,,2025-07-26T09:08:58.518307
+829,https://www.goodreads.com/book/show/829,Odalisque,Neal Stephenson,4.20,"2,051",100,,464,,,2025-07-26T09:09:02.984051
+830,https://www.goodreads.com/book/show/830,Snow Crash,Neal Stephenson,4.01,"293,398","13,308",,438,,,2025-07-26T09:09:04.625832
+831,https://www.goodreads.com/book/show/831,Snow Crash,Neal Stephenson,4.01,"293,398","13,308",,534,,,2025-07-26T09:09:08.723516
+832,https://www.goodreads.com/book/show/832,Snow Crash: The Official Strategy Guide,Prima Games,5.00,2,0,,Paperback,,,2025-07-26T09:09:10.218260
+833,https://www.goodreads.com/book/show/833,Gross Anatomy,Susan Ring,5.00,2,1,,68,,,2025-07-26T09:09:11.945637
+834,https://www.goodreads.com/book/show/834,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume II: The Endgame",Dan Harrington,4.18,"1,749",37,,466,,,2025-07-26T09:09:14.451804
+835,https://www.goodreads.com/book/show/835,"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume I: Strategic Play",Dan Harrington,4.24,"2,498",102,,381,,,2025-07-26T09:09:16.821781
+836,https://www.goodreads.com/book/show/836,The Good Eye,Dan    Harrington,0.00,0,0,,352,,,2025-07-26T09:09:17.937450
+837,https://www.goodreads.com/book/show/837,Angelfish,Dan    Harrington,5.00,1,0,,211,,,2025-07-26T09:09:19.873651
+839,https://www.goodreads.com/book/show/839,A-Level ICT for Edexcel,K. Mary Reid,0.00,0,0,,432,,,2025-07-26T09:09:22.934124
+840,https://www.goodreads.com/book/show/840,The Design of Everyday Things,Donald A. Norman,4.15,"46,443","3,415",,257,,,2025-07-26T09:09:25.102735
+841,https://www.goodreads.com/book/show/841,Emotional Design: Why We Love (or Hate) Everyday Things,Donald A. Norman,3.95,"5,395",270,,272,,,2025-07-26T09:09:27.658379
+842,https://www.goodreads.com/book/show/842,The Psychology of Everyday Things,Donald A. Norman,4.15,"46,443","3,415",,257,,,2025-07-26T09:09:29.958988
+843,https://www.goodreads.com/book/show/843,Doing Things with Things: The Design and Use of Everyday Objects,Ole Dreier,3.00,5,0,,256,,,2025-07-26T09:09:31.513434
+844,https://www.goodreads.com/book/show/844,Emotional Design: Why We Love (Or Hate) Everyday Things,Donald A. Norman,3.95,"5,395",270,,257,,,2025-07-26T09:09:34.011269
+845,https://www.goodreads.com/book/show/845,Wire,Daniel Rozensztroch,4.25,4,0,,148,,,2025-07-26T09:09:35.549799
+846,https://www.goodreads.com/book/show/846,Wild Things: The Material Culture of Everyday Life,Judy Attfield,3.43,21,1,,336,,,2025-07-26T09:09:38.129918
+848,https://www.goodreads.com/book/show/848,No Price Too High: A Pentecostal Preacher Becomes Catholic - The Inspirational Story of Alex Jones as Told to Diane Hanson,Alex C. Jones,4.31,118,14,,259,,,2025-07-26T09:09:41.697812
+850,https://www.goodreads.com/book/show/850,Creative Thought Remedies,Alex X. Jones,3.33,3,0,,156,,,2025-07-26T09:09:44.940543
+851,https://www.goodreads.com/book/show/851,Noise,Alex X. Jones,3.67,3,2,,96,,,2025-07-26T09:09:46.471939
+852,https://www.goodreads.com/book/show/852,The Syndicate,Jules Jones,3.67,27,7,,348,,,2025-07-26T09:09:48.884053
+853,https://www.goodreads.com/book/show/853,Seven Mansions of Color,Alex S. Jones,4.00,11,0,,160,,,2025-07-26T09:09:50.358482
+854,https://www.goodreads.com/book/show/854,A More Perfect Way,Alex C. Jones,0.00,0,0,,Audio,,,2025-07-26T09:09:52.369927
+855,https://www.goodreads.com/book/show/855,Fields of Gold,Alex X. Jones,0.00,0,0,,86,,,2025-07-26T09:09:53.430518
+856,https://www.goodreads.com/book/show/856,The Trust: The Private and Powerful Family Behind The New York Times,Alex S. Jones,4.04,202,22,,928,,,2025-07-26T09:09:57.325510
+857,https://www.goodreads.com/book/show/857,Web Standards Solutions: The Markup and Style Handbook,Dan Cederholm,4.07,339,8,,253,,,2025-07-26T09:09:59.476364
+858,https://www.goodreads.com/book/show/858,Afro American Artists: A Bio-Bibliographical Directory,Theresa Cederholm,5.00,2,0,,Paperback,,,2025-07-26T09:10:01.327655
+859,https://www.goodreads.com/book/show/859,CSS Cookbook,Christopher Schmitt,3.90,222,15,,272,,,2025-07-26T09:10:03.799427
+860,https://www.goodreads.com/book/show/860,Justitiemord: Fallet Keith Cederholm,Jan Guillou,3.00,3,0,,200,,,2025-07-26T09:10:05.950768
+861,https://www.goodreads.com/book/show/861,Rosamin: En pige af folket fortæller,Rosa Cederholm,5.00,1,0,,138,,,2025-07-26T09:10:07.785028
+862,https://www.goodreads.com/book/show/862,I Slagbjörnens Spår Berättelser Från Norrlandska Vildmarker Och Småländska Storskogar,Stig Cederholm,3.00,1,0,,8,,,2025-07-26T09:10:09.297321
+863,https://www.goodreads.com/book/show/863,How to Build a Real Estate Empire: Wisdom from the Best in the Business,John  Hamilton,3.50,28,1,,272,,,2025-07-26T09:10:11.229153
+864,https://www.goodreads.com/book/show/864,The Alchemist,Paulo Coelho,3.92,"3,428,491","139,226",,192,,,2025-07-26T09:10:13.833017
+865,https://www.goodreads.com/book/show/865,The Alchemist,Paulo Coelho,3.92,"3,428,491","139,226",,197,,,2025-07-26T09:10:16.510181
+866,https://www.goodreads.com/book/show/866,"Fullmetal Alchemist, Vol. 9",Hiromu Arakawa,4.57,"12,254",332,,178,,,2025-07-26T09:10:19.157665
+867,https://www.goodreads.com/book/show/867,Secrets of the Alchemist Dar,Michael Stadther,3.79,52,1,,144,,,2025-07-26T09:10:20.792785
+868,https://www.goodreads.com/book/show/868,"Fullmetal Alchemist, Vol. 3",Hiromu Arakawa,4.55,"23,969",628,,182,,,2025-07-26T09:10:23.710992
+869,https://www.goodreads.com/book/show/869,"Fullmetal Alchemist, Vol. 8",Hiromu Arakawa,4.56,"15,557",345,,170,,,2025-07-26T09:10:26.241049
+870,https://www.goodreads.com/book/show/870,"Fullmetal Alchemist, Vol. 1",Hiromu Arakawa,4.53,"184,901","2,622",,192,,,2025-07-26T09:10:28.814411
+871,https://www.goodreads.com/book/show/871,"Fullmetal Alchemist, Vol. 4",Hiromu Arakawa,4.55,"15,857",627,,184,,,2025-07-26T09:10:30.752736
+872,https://www.goodreads.com/book/show/872,The Illustrated Alchemist: A Fable About Following Your Dream,Paulo Coelho,3.92,"3,428,491","139,226",,198,,,2025-07-26T09:10:33.103838
+873,https://www.goodreads.com/book/show/873,"Fullmetal Alchemist, Vol. 2",Hiromu Arakawa,4.51,"22,080",899,,182,,,2025-07-26T09:10:35.423221
+874,https://www.goodreads.com/book/show/874,The Kite Runner,Khaled Hosseini,4.35,"3,400,738","109,327",,324,,,2025-07-26T09:10:37.433848
+876,https://www.goodreads.com/book/show/876,Bookclub in a Box Discusses Khaled Hosseini's Novel The Kite Runner,Marilyn Herbert,4.16,158,2,,81,,,2025-07-26T09:10:40.381979
+877,https://www.goodreads.com/book/show/877,Cambridge Wizard Student Guide: The Kite Runner,Sue  Sherman,4.00,11,1,,64,,,2025-07-26T09:10:41.979176
+878,https://www.goodreads.com/book/show/878,Una semana de invierno,Marcia Willett,4.03,"3,097",230,,412,,,2025-07-26T09:10:44.508579
+879,https://www.goodreads.com/book/show/879,The Kite Runner: Experiments in Poetry,Henry Rivers,0.00,0,0,,75,,,2025-07-26T09:10:46.178775
+880,https://www.goodreads.com/book/show/880,Pompeii,Robert   Harris,3.88,"51,529","3,592",,274,,,2025-07-26T09:10:48.559313
+881,https://www.goodreads.com/book/show/881,Pompeii . . . Buried Alive!,Edith Kunhardt,4.00,"2,622",86,,48,,,2025-07-26T09:10:51.823539
+882,https://www.goodreads.com/book/show/882,"Pompeii: The History, Life and Art of the Buried City",Marisa Ranieri Panetta,4.44,63,11,,416,,,2025-07-26T09:10:53.754545
+883,https://www.goodreads.com/book/show/883,Pompeii: Lost & Found,Mary Pope Osborne,3.72,145,18,,40,,,2025-07-26T09:10:56.421407
+884,https://www.goodreads.com/book/show/884,Pompeii: Monuments Past and Present,Alfonso De Franciscis,4.15,13,0,,56,,,2025-07-26T09:10:58.382550
+885,https://www.goodreads.com/book/show/885,A.D. 62: Pompeii,Rebecca East,3.47,243,43,,292,,,2025-07-26T09:11:01.041811
+886,https://www.goodreads.com/book/show/886,Pompeii: The Day a City Died,Robert Étienne,3.54,123,12,,216,,,2025-07-26T09:11:05.647142
+887,https://www.goodreads.com/book/show/887,Pompeii: Public and Private Life,Paul Zanker,3.47,74,5,,253,,,2025-07-26T09:11:06.864470
+888,https://www.goodreads.com/book/show/888,The Last Days of Pompeii,Edward Bulwer-Lytton,3.58,"2,491",239,,360,,,2025-07-26T09:11:12.004981
+889,https://www.goodreads.com/book/show/889,Escape From Pompeii,Christina Balit,4.00,245,39,,26,,,2025-07-26T09:11:14.969556
+890,https://www.goodreads.com/book/show/890,Of Mice and Men,John Steinbeck,3.89,"2,750,821","62,041",,107,,,2025-07-26T09:11:17.848586
+891,https://www.goodreads.com/book/show/891,Cliffsnotes on Steinbeck's of Mice and Men,Susan Van Kirk,3.91,58,4,,80,,,2025-07-26T09:11:19.759335
+892,https://www.goodreads.com/book/show/892,Of Mice and Men,John Steinbeck,3.89,"2,750,821","62,041",,1,,,2025-07-26T09:11:22.496018
+893,https://www.goodreads.com/book/show/893,Of Mice and Men,John Steinbeck,3.89,"2,750,821","62,041",,118,,,2025-07-26T09:11:24.956046
+894,https://www.goodreads.com/book/show/894,Of Mice and Men,SparkNotes,4.00,40,2,,72,,,2025-07-26T09:11:26.721488
+895,https://www.goodreads.com/book/show/895,Of Mice and Men,John Steinbeck,3.89,"2,750,821","62,041",,Paperback,,,2025-07-26T09:11:29.203940
+896,https://www.goodreads.com/book/show/896,Of Mice and Men,John Steinbeck,3.89,"2,750,821","62,041",,118,,,2025-07-26T09:11:31.737403
+897,https://www.goodreads.com/book/show/897,Of Mice and Men LitPlan - A Novel Unit Teacher Guide With Daily Lesson Plans,Mary B. Collins,5.00,1,0,,CD-ROM,,,2025-07-26T09:11:32.476058
+898,https://www.goodreads.com/book/show/898,Literature Guide: Of Mice and Men,Kristen Bowers,3.67,3,1,,52,,,2025-07-26T09:11:34.575034
+899,https://www.goodreads.com/book/show/899,Of Mice and Men,John Steinbeck,3.89,"2,750,821","62,041",,160,,,2025-07-26T09:11:37.015291
+900,https://www.goodreads.com/book/show/900,The Game: Penetrating the Secret Society of Pickup Artists,Neil Strauss,3.73,"32,102","2,306",,452,,,2025-07-26T09:11:39.103090
+901,https://www.goodreads.com/book/show/901,Ender's Game,Orson Scott Card,4.31,"1,449,424","52,650",,324,,,2025-07-26T09:11:41.551630
+902,https://www.goodreads.com/book/show/902,The Westing Game,Ellen Raskin,3.99,"230,189","15,943",,182,,,2025-07-26T09:11:44.404138
+903,https://www.goodreads.com/book/show/903,The Egypt Game,Zilpha Keatley Snyder,3.83,"36,464","1,768",,240,,,2025-07-26T09:11:46.936289
+904,https://www.goodreads.com/book/show/904,The Game Maker's Apprentice: Game Development for Beginners,Jacob Habgood,3.94,147,14,,336,,,2025-07-26T09:11:48.954200
+905,https://www.goodreads.com/book/show/905,The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance,W. Timothy Gallwey,4.19,"25,701","2,235",,134,,,2025-07-26T09:11:51.559689
+906,https://www.goodreads.com/book/show/906,"Game of Shadows: Barry Bonds, BALCO, and the Steroids Scandal that Rocked Professional Sports",Mark Fainaru-Wada,3.83,"5,966",246,,352,,,2025-07-26T09:11:53.785246
+907,https://www.goodreads.com/book/show/907,The City Game: Basketball from the Garden to the Playgrounds,Pete Axthelm,4.07,372,33,,224,,,2025-07-26T09:11:56.436608
+908,https://www.goodreads.com/book/show/908,Jim Cramer's Real Money: Sane Investing in an Insane World,James J. Cramer,3.69,"2,138",120,,320,,,2025-07-26T09:11:58.347934
+909,https://www.goodreads.com/book/show/909,"Jim Cramer's Mad Money: Watch TV, Get Rich",James J. Cramer,3.50,849,64,,240,,,2025-07-26T09:12:01.584277
+910,https://www.goodreads.com/book/show/910,Trading With the Enemy: Seduction and Betrayal on Jim Cramer's Wall Street,Nicholas W. Maier,3.74,96,8,,208,,,2025-07-26T09:12:04.404871
+911,https://www.goodreads.com/book/show/911,The Forewarned Investor: Don't Get Fooled Again by Corporate Fraud,Brett S. Messing,3.33,6,0,,221,,,2025-07-26T09:12:06.021422
+912,https://www.goodreads.com/book/show/912,"Rich Dad, Poor Dad",Robert T. Kiyosaki,4.10,"694,472","26,254",,204,,,2025-07-26T09:12:09.761276
+913,https://www.goodreads.com/book/show/913,Rich Dad Poor Dad Classics - Boxed Set,Robert T. Kiyosaki,4.10,"694,472","26,254",,Audio,,,2025-07-26T09:12:12.141019
+914,https://www.goodreads.com/book/show/914,"Rich Dad, Poor Dad 2 : Cash Flow Quadrant - Rich Dad's Guide to Financial Freedom",Robert T. Kiyosaki,4.16,"62,811","1,973",,320,,,2025-07-26T09:12:14.834072
+915,https://www.goodreads.com/book/show/915,A Lonely Resurrection,Barry Eisler,4.13,"10,300",475,,352,,,2025-07-26T09:12:17.136507
+916,https://www.goodreads.com/book/show/916,...and a Hard Rain Fell: A GI's True Story of the War in Vietnam,John Ketwig,4.12,977,89,,400,,,2025-07-26T09:12:20.404665
+918,https://www.goodreads.com/book/show/918,Hard Rain: A Dylan Commentary,Tim Riley,3.47,51,8,,368,,,2025-07-26T09:12:24.890568
+919,https://www.goodreads.com/book/show/919,Hard Rain,Janwillem van de Wetering,3.92,285,17,,320,,,2025-07-26T09:12:26.734949
+920,https://www.goodreads.com/book/show/920,Hard Rain,Peter Abrahams,3.78,208,21,,352,,,2025-07-26T09:12:29.207541
+921,https://www.goodreads.com/book/show/921,Hard Rain: History of the Browning Machine Guns,Frank Iannamico,5.00,1,0,,338,,,2025-07-26T09:12:31.328054
+922,https://www.goodreads.com/book/show/922,Hard Rain: Our Headlong Collision with Nature,Mark Ryall Edwards,4.06,18,2,,128,,,2025-07-26T09:12:32.404190
+923,https://www.goodreads.com/book/show/923,Hard Rain,Matthew W. Mallen,4.00,2,0,,37,,,2025-07-26T09:12:34.502673
+924,https://www.goodreads.com/book/show/924,Hard Rain,Darlene Scalera,4.41,39,2,,250,,,2025-07-26T09:12:36.212416
+925,https://www.goodreads.com/book/show/925,A Clean Kill in Tokyo,Barry Eisler,3.99,"19,164","1,093",,363,,,2025-07-26T09:12:39.312952
+926,https://www.goodreads.com/book/show/926,When the Rain Falls,Mary Lonsdale,3.60,10,1,,12,,,2025-07-26T09:12:40.477044
+927,https://www.goodreads.com/book/show/927,The Rain Falls Like Rain,David Helwig,5.00,1,0,,204,,,2025-07-26T09:12:42.694551
+928,https://www.goodreads.com/book/show/928,The Rain Falls Like Rain: Poems,David Helwig,5.00,1,0,,204,,,2025-07-26T09:12:44.231244
+929,https://www.goodreads.com/book/show/929,Memoirs of a Geisha,Arthur Golden,4.16,"2,082,127","38,416",,503,,,2025-07-26T09:12:46.547183
+930,https://www.goodreads.com/book/show/930,Memoirs of a Geisha,Arthur Golden,4.16,"2,082,127","38,416",,434,,,2025-07-26T09:12:49.580755
+931,https://www.goodreads.com/book/show/931,Memoirs of a Geisha,Arthur Golden,4.16,"2,082,127","38,416",,497,,,2025-07-26T09:12:52.062032
+932,https://www.goodreads.com/book/show/932,Memoirs of a Geisha: Portrait of the Film,David        James,4.17,174,12,,144,,,2025-07-26T09:12:54.386380
+933,https://www.goodreads.com/book/show/933,Memoirs of a Geisha,Arthur Golden,4.16,"2,082,127","38,416",,434,,,2025-07-26T09:12:57.886801
+935,https://www.goodreads.com/book/show/935,Geisha of Gion,Mineko Iwasaki,3.93,"26,792","1,858",,334,,,2025-07-26T09:13:02.601920
+936,https://www.goodreads.com/book/show/936,Memoirs of a Geisha,Arthur Golden,4.16,"2,082,127","38,416",,3,,,2025-07-26T09:13:05.677348
+937,https://www.goodreads.com/book/show/937,Memoirs of a Geisha,Arthur Golden,4.16,"2,082,127","38,416",,768,,,2025-07-26T09:13:07.491567
+938,https://www.goodreads.com/book/show/938,How to Make Anyone Fall in Love with You,Leil Lowndes,3.55,"1,411",111,,336,,,2025-07-26T09:13:10.275552
+939,https://www.goodreads.com/book/show/939,How To Get Laid: The Rules On How To Succeed With Women And How To Make Anyone Fall In Love With You,Michael James,3.00,2,0,,222,,,2025-07-26T09:13:11.916125
+940,https://www.goodreads.com/book/show/940,Self-Help Pak: Love Tactics/How to Make Anyone Fall in Love with You,Thomas W. McKnight,5.00,1,0,,Unbound,,,2025-07-26T09:13:13.219453
+941,https://www.goodreads.com/book/show/941,Love As A Foreign Language #5,J. Torres,3.77,13,2,,64,,,2025-07-26T09:13:14.956261
+942,https://www.goodreads.com/book/show/942,Los 5 lenguajes del amor de los niños,Gary Chapman,4.17,"28,534","2,531",,252,,,2025-07-26T09:13:17.708597
+943,https://www.goodreads.com/book/show/943,Marriage Special Package- 2 books- Five Love Languages/Fight Fair,Gary Chapman,4.32,41,10,,400,,,2025-07-26T09:13:19.285694
+944,https://www.goodreads.com/book/show/944,Jungle Love,Margaret Johnson,3.33,92,9,,96,,,2025-07-26T09:13:21.869233
+946,https://www.goodreads.com/book/show/946,Jungle Love,Margaret Johnson,3.33,92,9,,96,,,2025-07-26T09:13:25.673464
+947,https://www.goodreads.com/book/show/947,First Impressions,Nora Roberts,3.85,"11,349",507,,218,,,2025-07-26T09:13:28.409402
+948,https://www.goodreads.com/book/show/948,Building Literacy With Love: A Guide for Teachers and Caregivers of Children Birth Through Age 5,Betty S. Bardige,3.60,15,1,,366,,,2025-07-26T09:13:30.004405
+949,https://www.goodreads.com/book/show/949,One World?: Topic Reader Level 5,Catherine Allan,5.00,1,0,,24,,,2025-07-26T09:13:31.484498
+951,https://www.goodreads.com/book/show/951,The Five Love Languages: Men's Edition: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,4.26,"3,535",267,,208,,,2025-07-26T09:13:35.808215
+952,https://www.goodreads.com/book/show/952,The Five Love Languages of Children,Gary Chapman,4.17,"28,534","2,531",,224,,,2025-07-26T09:13:37.329994
+953,https://www.goodreads.com/book/show/953,Los cinco lenguajes del amor para solteros,Gary Chapman,4.12,"12,709","1,087",,235,,,2025-07-26T09:13:39.904234
+954,https://www.goodreads.com/book/show/954,The Five Love Languages of Teenagers,Gary Chapman,4.15,"4,024",422,,272,,,2025-07-26T09:13:42.740516
+955,https://www.goodreads.com/book/show/955,The 5 Love Languages / The 5 Love Languages Journal,Gary Chapman,4.41,92,9,,Paperback,,,2025-07-26T09:13:44.770780
+956,https://www.goodreads.com/book/show/956,The Five Love Languages: Mens Edition; How to Express Heartfelt Commitment to Your Mate,Gary Chapman,4.26,"3,535",267,,4,,,2025-07-26T09:13:47.054898
+957,https://www.goodreads.com/book/show/957,Five Love Languages Journal: How To Express Heartfelt Commitment To Your Mate,Gary Chapman,4.28,"468,397","18,574",,144,,,2025-07-26T09:13:49.756822
+958,https://www.goodreads.com/book/show/958,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,4.28,"468,397","18,574",,video,,,2025-07-26T09:13:52.080876
+959,https://www.goodreads.com/book/show/959,Los cinco lenguajes del amor: Edición para hombres: Como expresarle a su conyuge la sinceridad de su entrega,Gary Chapman,4.28,"468,397","18,574",,196,,,2025-07-26T09:13:54.698655
+960,https://www.goodreads.com/book/show/960,Angels & Demons,Dan    Brown,3.95,"3,343,170","36,217",,736,,,2025-07-26T09:13:56.174650
+961,https://www.goodreads.com/book/show/961,Angels (and Demons): What Do We Really Know About Them?,Peter Kreeft,4.09,676,58,,157,,,2025-07-26T09:13:58.738983
+962,https://www.goodreads.com/book/show/962,"Angels, Demons & Gods of the New Millenium: Musings on Modern Magick",Lon Milo DuQuette,4.13,208,11,,192,,,2025-07-26T09:14:00.662712
+963,https://www.goodreads.com/book/show/963,Angels and Demons in Art,Rosa Giorgi,4.13,117,10,,384,,,2025-07-26T09:14:03.046919
+964,https://www.goodreads.com/book/show/964,Secrets of Angels and Demons,Dan Burstein,3.53,190,16,,384,,,2025-07-26T09:14:04.930357
+965,https://www.goodreads.com/book/show/965,Ángeles y demonios,Dan    Brown,3.95,"3,343,170","36,217",,528,,,2025-07-26T09:14:07.281571
+966,https://www.goodreads.com/book/show/966,Ángeles y Demonios,Dan    Brown,3.95,"3,343,170","36,217",,10,,,2025-07-26T09:14:09.676772
+967,https://www.goodreads.com/book/show/967,Angel Customers & Demon Customers: Discover Which is Which and Turbo-Charge Your Stock,Larry Selden,3.40,30,3,,256,,,2025-07-26T09:14:10.928955
+968,https://www.goodreads.com/book/show/968,The da Vinci Code,Dan    Brown,3.93,"2,474,675","58,317",,489,,,2025-07-26T09:14:13.616802
+969,https://www.goodreads.com/book/show/969,The Da Vinci Code,Dan    Brown,3.93,"2,474,675","58,317",,467,,,2025-07-26T09:14:16.261034
+970,https://www.goodreads.com/book/show/970,Fodor's Guide to The Da Vinci Code: On the Trail of the Best-Selling Novel,Jennifer Paull,3.63,49,9,,256,,,2025-07-26T09:14:18.350887
+971,https://www.goodreads.com/book/show/971,The Truth Behind the Da Vinci Code: A Challenging Response to the Bestselling Novel,Richard Abanes,3.29,85,8,,96,,,2025-07-26T09:14:20.490504
+972,https://www.goodreads.com/book/show/972,Da Vinci Code,Dan    Brown,3.93,"2,474,675","58,317",,744,,,2025-07-26T09:14:23.702380
+973,https://www.goodreads.com/book/show/973,Who Can Crack the Leonardo Da Vinci Code?,Thomas C. Brezina,3.50,46,0,,112,,,2025-07-26T09:14:25.269401
+974,https://www.goodreads.com/book/show/974,The Da Vinci Code: Fact or Fiction?,Hank Hanegraaff,3.76,176,15,,82,,,2025-07-26T09:14:27.596004
+975,https://www.goodreads.com/book/show/975,Deception Point,Dan    Brown,3.76,"691,559","11,629",,736,,,2025-07-26T09:14:30.258657
+976,https://www.goodreads.com/book/show/976,Deception Point,Dan    Brown,3.76,"691,559","11,629",,556,,,2025-07-26T09:14:31.896595
+977,https://www.goodreads.com/book/show/977,Deception Point,Dan    Brown,3.76,"691,559","11,629",,585,,,2025-07-26T09:14:34.490512
+978,https://www.goodreads.com/book/show/978,Point Deception,Marcia Muller,3.75,905,87,,368,,,2025-07-26T09:14:37.391997
+979,https://www.goodreads.com/book/show/979,Deception Point,Dan    Brown,3.76,"691,559","11,629",,6,,,2025-07-26T09:14:39.883423
+980,https://www.goodreads.com/book/show/980,Deception Point,Dan    Brown,3.76,"691,559","11,629",,480,,,2025-07-26T09:14:42.240518
+981,https://www.goodreads.com/book/show/981,حقيقة الخديعة,Dan    Brown,3.76,"691,559","11,629",,471,,,2025-07-26T09:14:44.583256
+982,https://www.goodreads.com/book/show/982,Deception Point,Dan    Brown,3.76,"691,559","11,629",,816,,,2025-07-26T09:14:46.952410
+983,https://www.goodreads.com/book/show/983,Deception Point,Dan    Brown,3.76,"691,559","11,629",,736,,,2025-07-26T09:14:49.418732
+984,https://www.goodreads.com/book/show/984,A Killing Rain,P.J. Parrish,4.08,713,57,,Hardcover,,,2025-07-26T09:14:52.071776
+985,https://www.goodreads.com/book/show/985,A Killing Rain: The Global Threat of Acid Precipitation,Thomas F. Pawlick,4.00,2,0,,206,,,2025-07-26T09:14:53.580728
+986,https://www.goodreads.com/book/show/986,A Killing Rain and Other Stories,Reid Laurence,5.00,1,0,,244,,,2025-07-26T09:14:55.303230
+987,https://www.goodreads.com/book/show/987,A Killing Rain,P.J. Parrish,4.08,713,57,,383,,,2025-07-26T09:14:57.414752
+988,https://www.goodreads.com/book/show/988,Winner Take All,Barry Eisler,4.18,"9,872",358,,366,,,2025-07-26T09:14:59.812305
+989,https://www.goodreads.com/book/show/989,There Wasn't Any Rain or Storm,Howard  Major,5.00,1,0,,116,,,2025-07-26T09:15:01.344350
+990,https://www.goodreads.com/book/show/990,A Storm Without Rain: A Novel in Time,Jan Adkins,3.98,44,11,,179,,,2025-07-26T09:15:03.345382
+991,https://www.goodreads.com/book/show/991,Eye of the Storm,V.C. Andrews,3.84,"4,419",75,,368,,,2025-07-26T09:15:05.577492
+992,https://www.goodreads.com/book/show/992,Fire in the Rain...Singer in the Storm: An Autobiography,Holly Near,3.80,30,4,,288,,,2025-07-26T09:15:06.995019
+993,https://www.goodreads.com/book/show/993,Storm in a Rain Barrel,Anne Mather,3.29,123,18,,262,,,2025-07-26T09:15:09.792788
+994,https://www.goodreads.com/book/show/994,What Every Investor Needs to Know About Accounting Fraud,Jeff Madura,3.27,15,2,,160,,,2025-07-26T09:15:11.598661
+995,https://www.goodreads.com/book/show/995,What Every Fidelity Investor Needs to Know,James Lowell,3.86,7,1,,338,,,2025-07-26T09:15:13.250534
+996,https://www.goodreads.com/book/show/996,What Every Real Estate Investor Needs to Know about Cash Flow... And 36 Other Key Financial Measures,Frank Gallinelli,4.13,"1,398",60,,261,,,2025-07-26T09:15:56.152917
+997,https://www.goodreads.com/book/show/997,The Real Estate Investor's Tax Guide: What Every Investor Needs to Know to Maximize Profits,Vernon Hoven,5.00,1,0,,289,,,2025-07-26T09:15:57.834137
+998,https://www.goodreads.com/book/show/998,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,Thomas J. Stanley,4.05,"130,043","5,242",,258,,,2025-07-26T09:16:41.306319
+999,https://www.goodreads.com/book/show/999,The Millionaire Next Door: The Surprising Secrets of Americas Wealthy,Thomas J. Stanley,4.05,"130,043","5,242",,272,,,2025-07-26T09:17:03.765063
+1000,https://www.goodreads.com/book/show/1000,Millionaire Women Next Door: The Many Journeys of Successful American Businesswomen,Thomas J. Stanley,3.89,846,80,,320,,,2025-07-26T09:17:14.906339
